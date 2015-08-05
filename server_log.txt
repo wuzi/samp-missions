@@ -1,0 +1,4263 @@
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7, (C)2005-2015 SA-MP Team
+
+[09:38:19] filterscripts = ""  (string)
+[09:38:19] Error: Your password must be changed from the default password, please change it.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7, (C)2005-2015 SA-MP Team
+
+[09:38:26] filterscripts = ""  (string)
+[09:38:26] 
+[09:38:26] Server Plugins
+[09:38:26] --------------
+[09:38:26]  Loading plugin: helloworld
+[09:38:26]   Failed.
+[09:38:26]  Loaded 0 plugins.
+
+[09:38:26] 
+[09:38:26] Filterscripts
+[09:38:26] ---------------
+[09:38:26]   Loaded 0 filterscripts.
+
+[09:38:26] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[09:38:26] 
+----------------------------------
+[09:38:26]   Bare Script
+
+[09:38:26] ----------------------------------
+
+[09:38:26] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7, (C)2005-2015 SA-MP Team
+
+[09:38:38] filterscripts = ""  (string)
+[09:38:38] 
+[09:38:38] Server Plugins
+[09:38:38] --------------
+[09:38:38]  Loading plugin: helloworld
+[09:38:38]   Loaded.
+[09:38:38]  Loaded 1 plugins.
+
+[09:38:38] 
+[09:38:38] Filterscripts
+[09:38:38] ---------------
+[09:38:38]   Loaded 0 filterscripts.
+
+[09:38:38] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[09:38:38] 
+----------------------------------
+[09:38:38]   Bare Script
+
+[09:38:38] ----------------------------------
+
+[09:38:38] Number of vehicle models: 0
+[09:38:39] Tick count: 131337141
+[09:38:40] Tick count: 131338140
+[09:38:41] Tick count: 131339142
+[09:38:42] Tick count: 131340142
+[09:38:43] Tick count: 131341143
+[09:38:44] Tick count: 131342139
+[09:38:45] Tick count: 131343142
+[09:38:46] Tick count: 131344143
+[09:38:47] Tick count: 131345144
+[09:38:48] Tick count: 131346143
+[09:38:49] Tick count: 131347139
+[09:38:50] Tick count: 131348142
+[09:38:51] Tick count: 131349141
+[09:38:52] Tick count: 131350140
+[09:38:53] Tick count: 131351143
+[09:38:54] Tick count: 131352140
+[09:38:55] Tick count: 131353144
+[09:38:56] Tick count: 131354143
+[09:38:57] Tick count: 131355139
+[09:38:58] Tick count: 131356144
+[09:38:59] Tick count: 131357142
+[09:39:00] Tick count: 131358142
+[09:39:01] [connection] 127.0.0.1:59310 requests connection cookie.
+[09:39:01] Tick count: 131359143
+[09:39:02] Incoming connection: 127.0.0.1:59310 id: 0
+[09:39:02] Tick count: 131360142
+[09:39:02] [join] Fawkes has joined the server (0:127.0.0.1)
+[09:39:03] Tick count: 131361143
+[09:39:04] Tick count: 131362142
+[09:39:05] Tick count: 131363143
+[09:39:06] Tick count: 131364141
+[09:39:07] Tick count: 131365140
+[09:39:08] Tick count: 131366144
+[09:39:09] Tick count: 131367144
+[09:39:10] Tick count: 131368142
+[09:39:11] Tick count: 131369140
+[09:39:12] Tick count: 131370142
+[09:39:13] Tick count: 131371139
+[09:39:14] Tick count: 131372141
+[09:39:15] Tick count: 131373140
+[09:39:16] Tick count: 131374140
+[09:39:17] Tick count: 131375141
+[09:39:18] Tick count: 131376142
+[09:39:19] Tick count: 131377142
+[09:39:20] Tick count: 131378144
+[09:39:21] Tick count: 131379144
+[09:39:22] Tick count: 131380142
+[09:39:23] Tick count: 131381143
+[09:39:24] Tick count: 131382139
+[09:39:25] Tick count: 131383139
+[09:39:26] Tick count: 131384143
+[09:39:27] Tick count: 131385139
+[09:39:28] Tick count: 131386141
+[09:39:29] Tick count: 131387142
+[09:39:30] Tick count: 131388140
+[09:39:31] Tick count: 131389142
+[09:39:32] Tick count: 131390140
+[09:39:33] Tick count: 131391139
+[09:39:34] Tick count: 131392142
+[09:39:35] Tick count: 131393140
+[09:39:36] Tick count: 131394139
+[09:39:37] Tick count: 131395141
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7, (C)2005-2015 SA-MP Team
+
+[10:01:01] filterscripts = ""  (string)
+[10:01:01] 
+[10:01:01] Server Plugins
+[10:01:01] --------------
+[10:01:01]  Loading plugin: helloworld
+[10:01:01]   Loaded.
+[10:01:01]  Loaded 1 plugins.
+
+[10:01:01] 
+[10:01:01] Filterscripts
+[10:01:01] ---------------
+[10:01:01]   Loaded 0 filterscripts.
+
+[10:01:01] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[10:01:01] 
+----------------------------------
+[10:01:01]   Bare Script
+
+[10:01:01] ----------------------------------
+
+[10:01:01] Number of vehicle models: 0
+[10:01:02] Tick count: 132680401
+[10:01:03] Tick count: 132681405
+[10:01:04] Tick count: 132682405
+[10:01:05] Tick count: 132683401
+[10:01:06] Tick count: 132684405
+[10:01:07] Tick count: 132685402
+[10:01:08] Tick count: 132686403
+[10:01:09] Tick count: 132687401
+[10:01:10] Tick count: 132688403
+[10:01:11] Tick count: 132689403
+[10:01:12] Tick count: 132690405
+[10:01:13] Tick count: 132691402
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7, (C)2005-2015 SA-MP Team
+
+[10:03:27] filterscripts = ""  (string)
+[10:03:27] 
+[10:03:27] Server Plugins
+[10:03:27] --------------
+[10:03:27]  Loading plugin: helloworld
+[10:03:27]   Loaded.
+[10:03:27]  Loaded 1 plugins.
+
+[10:03:27] 
+[10:03:27] Filterscripts
+[10:03:27] ---------------
+[10:03:27]   Loaded 0 filterscripts.
+
+[10:03:27] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[10:03:27] 
+----------------------------------
+[10:03:27]   Bare Script
+
+[10:03:27] ----------------------------------
+
+[10:03:27] Number of vehicle models: 0
+[10:03:28] Tick count: 132826266
+[10:03:29] Tick count: 132827264
+[10:03:30] Tick count: 132828265
+[10:03:31] Tick count: 132829268
+[10:03:32] Tick count: 132830268
+[10:03:33] Tick count: 132831264
+[10:03:34] Tick count: 132832268
+[10:03:35] Tick count: 132833269
+[10:03:36] Tick count: 132834266
+[10:03:37] Tick count: 132835265
+[10:03:38] Tick count: 132836266
+[10:03:39] Tick count: 132837265
+[10:03:40] Tick count: 132838267
+[10:03:41] Tick count: 132839268
+[10:03:42] Tick count: 132840266
+[10:03:43] [connection] 127.0.0.1:64525 requests connection cookie.
+[10:03:43] Tick count: 132841266
+[10:03:44] Tick count: 132842268
+[10:03:45] Tick count: 132843267
+[10:03:46] Tick count: 132844269
+[10:03:47] Tick count: 132845264
+[10:03:48] Tick count: 132846267
+[10:03:49] Tick count: 132847264
+[10:03:50] Tick count: 132848264
+[10:03:51] Tick count: 132849264
+[10:03:52] Tick count: 132850269
+[10:03:53] Tick count: 132851267
+[10:03:54] Tick count: 132852265
+[10:03:55] Tick count: 132853268
+[10:03:56] Tick count: 132854265
+[10:03:57] Tick count: 132855266
+[10:03:58] Tick count: 132856268
+[10:03:59] Tick count: 132857269
+[10:04:00] Tick count: 132858269
+[10:04:01] [connection] 127.0.0.1:53423 requests connection cookie.
+[10:04:01] Tick count: 132859268
+[10:04:02] Incoming connection: 127.0.0.1:53423 id: 0
+[10:04:02] Tick count: 132860265
+[10:04:02] [join] Fawkes has joined the server (0:127.0.0.1)
+[10:04:03] Tick count: 132861269
+[10:04:04] Tick count: 132862268
+[10:04:05] Tick count: 132863267
+[10:04:06] Tick count: 132864264
+[10:04:07] Tick count: 132865265
+[10:04:08] Tick count: 132866267
+[10:04:09] Tick count: 132867266
+[10:04:10] Tick count: 132868265
+[10:04:11] Tick count: 132869264
+[10:04:11] [part] Fawkes has left the server (0:1)
+[10:04:11] Incoming connection: 127.0.0.1:53424 id: 0
+[10:04:12] [join] Fawkes has joined the server (0:127.0.0.1)
+[10:04:12] Tick count: 132870265
+[10:04:13] Tick count: 132871266
+[10:04:14] Tick count: 132872269
+[10:04:14] [part] Fawkes has left the server (0:1)
+[10:04:14] Incoming connection: 127.0.0.1:53425 id: 0
+[10:04:15] [join] Fawkes has joined the server (0:127.0.0.1)
+[10:04:15] Tick count: 132873264
+[10:04:16] Tick count: 132874267
+[10:04:17] Tick count: 132875265
+[10:04:18] Tick count: 132876266
+[10:04:19] Tick count: 132877268
+[10:04:20] Tick count: 132878266
+[10:04:21] Tick count: 132879268
+[10:04:22] Tick count: 132880268
+[10:04:23] Tick count: 132881264
+[10:04:24] Tick count: 132882265
+[10:04:25] Tick count: 132883269
+[10:04:26] Tick count: 132884266
+[10:04:27] Tick count: 132885267
+[10:04:28] Tick count: 132886269
+[10:04:29] Tick count: 132887268
+[10:04:30] Tick count: 132888266
+[10:04:31] Tick count: 132889266
+[10:04:32] Tick count: 132890268
+[10:04:33] Tick count: 132891266
+[10:04:34] Tick count: 132892267
+[10:04:35] Tick count: 132893267
+[10:04:36] Tick count: 132894266
+[10:04:37] Tick count: 132895268
+[10:04:38] Tick count: 132896265
+[10:04:39] Tick count: 132897265
+[10:04:40] Tick count: 132898269
+[10:04:41] Tick count: 132899268
+[10:04:42] Tick count: 132900264
+[10:04:43] Tick count: 132901269
+[10:04:44] Tick count: 132902265
+[10:04:45] Tick count: 132903264
+[10:04:46] Tick count: 132904266
+[10:04:47] Tick count: 132905266
+[10:04:48] Tick count: 132906265
+[10:04:49] Tick count: 132907265
+[10:04:50] Tick count: 132908267
+[10:04:51] Tick count: 132909267
+[10:04:52] Tick count: 132910268
+[10:04:53] Tick count: 132911267
+[10:04:54] Tick count: 132912267
+[10:04:55] Tick count: 132913266
+[10:04:56] Tick count: 132914264
+[10:04:57] Tick count: 132915264
+[10:04:58] Tick count: 132916269
+[10:04:59] Tick count: 132917267
+[10:05:00] Tick count: 132918268
+[10:05:01] Tick count: 132919265
+[10:05:02] Tick count: 132920265
+[10:05:03] Tick count: 132921265
+[10:05:04] Tick count: 132922266
+[10:05:05] Tick count: 132923266
+[10:05:06] Tick count: 132924265
+[10:05:07] Tick count: 132925267
+[10:05:08] Tick count: 132926265
+[10:05:09] Tick count: 132927269
+[10:05:10] Tick count: 132928265
+[10:05:11] Tick count: 132929264
+[10:05:12] Tick count: 132930264
+[10:05:13] Tick count: 132931266
+[10:05:14] Tick count: 132932264
+[10:05:15] Tick count: 132933267
+[10:05:16] Tick count: 132934267
+[10:05:17] Tick count: 132935268
+[10:05:18] Tick count: 132936266
+[10:05:19] Tick count: 132937265
+[10:05:20] Tick count: 132938266
+[10:05:21] Tick count: 132939266
+[10:05:22] Tick count: 132940268
+[10:05:23] Tick count: 132941268
+[10:05:24] Tick count: 132942266
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7, (C)2005-2015 SA-MP Team
+
+[10:05:29] filterscripts = ""  (string)
+[10:05:29] 
+[10:05:29] Server Plugins
+[10:05:29] --------------
+[10:05:29]  Loading plugin: helloworld
+[10:05:29]   Loaded.
+[10:05:29]  Loaded 1 plugins.
+
+[10:05:29] 
+[10:05:29] Filterscripts
+[10:05:29] ---------------
+[10:05:29]   Loaded 0 filterscripts.
+
+[10:05:29] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[10:05:29] 
+----------------------------------
+[10:05:29]   Bare Script
+
+[10:05:29] ----------------------------------
+
+[10:05:29] Number of vehicle models: 0
+[10:05:30] Tick count: 132948605
+[10:05:31] Tick count: 132949604
+[10:05:32] Tick count: 132950602
+[10:05:33] Tick count: 132951604
+[10:05:34] [connection] 127.0.0.1:50631 requests connection cookie.
+[10:05:34] Tick count: 132952604
+[10:05:35] Incoming connection: 127.0.0.1:50631 id: 0
+[10:05:35] [join] Fawkes has joined the server (0:127.0.0.1)
+[10:05:35] Tick count: 132953603
+[10:05:36] Tick count: 132954601
+[10:05:37] Tick count: 132955601
+[10:05:38] Tick count: 132956602
+[10:05:39] Tick count: 132957601
+[10:05:40] Tick count: 132958602
+[10:05:41] Tick count: 132959604
+[10:05:42] [part] Fawkes has left the server (0:1)
+[10:05:42] Tick count: 132960600
+[10:05:42] Incoming connection: 127.0.0.1:50632 id: 0
+[10:05:43] [join] Fawkes has joined the server (0:127.0.0.1)
+[10:05:43] Tick count: 132961604
+[10:05:44] Tick count: 132962604
+[10:05:45] Tick count: 132963603
+[10:05:46] Tick count: 132964603
+[10:05:47] Tick count: 132965603
+[10:05:48] Tick count: 132966600
+[10:05:49] Tick count: 132967602
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7, (C)2005-2015 SA-MP Team
+
+[10:17:05] filterscripts = ""  (string)
+[10:17:05] 
+[10:17:05] Server Plugins
+[10:17:05] --------------
+[10:17:05]  Loading plugin: helloworld
+[10:17:05]   Loaded.
+[10:17:05]  Loaded 1 plugins.
+
+[10:17:05] 
+[10:17:05] Filterscripts
+[10:17:05] ---------------
+[10:17:05]   Loaded 0 filterscripts.
+
+[10:17:05] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7, (C)2005-2015 SA-MP Team
+
+[10:17:08] filterscripts = ""  (string)
+[10:17:08] 
+[10:17:08] Server Plugins
+[10:17:08] --------------
+[10:17:08]  Loading plugin: helloworld
+[10:17:08]   Loaded.
+[10:17:08]  Loaded 1 plugins.
+
+[10:17:08] 
+[10:17:08] Filterscripts
+[10:17:08] ---------------
+[10:17:08]   Loaded 0 filterscripts.
+
+[10:17:08] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7, (C)2005-2015 SA-MP Team
+
+[10:23:18] filterscripts = ""  (string)
+[10:23:18] 
+[10:23:18] Server Plugins
+[10:23:18] --------------
+[10:23:18]  Loading plugin: helloworld
+[10:23:18]   Loaded.
+[10:23:18]  Loaded 1 plugins.
+
+[10:23:18] 
+[10:23:18] Filterscripts
+[10:23:18] ---------------
+[10:23:18]   Loaded 0 filterscripts.
+
+[10:23:18] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[10:23:18] 
+----------------------------------
+[10:23:18]   Bare Script
+
+[10:23:18] ----------------------------------
+
+[10:23:18] Number of vehicle models: 0
+[10:23:19] Tick count: 134017671
+[10:23:20] Tick count: 134018670
+[10:23:21] [connection] 127.0.0.1:52177 requests connection cookie.
+[10:23:21] Tick count: 134019671
+[10:23:22] Incoming connection: 127.0.0.1:52177 id: 0
+[10:23:22] [join] Fawkes has joined the server (0:127.0.0.1)
+[10:23:22] Tick count: 134020671
+[10:23:23] Tick count: 134021672
+[10:23:24] Tick count: 134022674
+[10:23:25] Tick count: 134023670
+[10:23:26] Tick count: 134024669
+[10:23:27] Tick count: 134025671
+[10:23:28] Tick count: 134026670
+[10:23:29] Tick count: 134027671
+[10:23:30] Tick count: 134028674
+[10:23:31] Tick count: 134029670
+[10:23:32] Tick count: 134030671
+[10:23:33] Tick count: 134031670
+[10:23:34] Tick count: 134032671
+[10:23:35] Tick count: 134033671
+[10:23:36] Tick count: 134034673
+[10:23:37] Tick count: 134035671
+[10:23:38] Tick count: 134036672
+[10:23:39] Tick count: 134037671
+[10:23:40] Tick count: 134038671
+[10:23:41] Tick count: 134039672
+[10:23:42] Tick count: 134040673
+[10:23:43] Tick count: 134041670
+[10:23:44] Tick count: 134042671
+[10:23:45] Tick count: 134043670
+[10:23:46] Tick count: 134044674
+[10:23:47] Tick count: 134045671
+[10:23:48] Tick count: 134046673
+[10:23:49] Tick count: 134047672
+[10:23:50] Tick count: 134048672
+[10:23:51] Tick count: 134049674
+[10:23:52] Tick count: 134050674
+[10:23:53] Tick count: 134051671
+[10:23:54] Tick count: 134052671
+[10:23:55] Tick count: 134053671
+[10:23:56] Tick count: 134054669
+[10:23:57] Tick count: 134055670
+[10:23:58] Tick count: 134056674
+[10:23:59] Tick count: 134057669
+[10:24:00] Tick count: 134058674
+[10:24:01] Tick count: 134059673
+[10:24:02] Tick count: 134060674
+[10:24:03] Tick count: 134061675
+[10:24:04] Tick count: 134062671
+[10:24:05] Tick count: 134063673
+[10:24:06] Tick count: 134064673
+[10:24:07] Tick count: 134065669
+[10:24:08] Tick count: 134066672
+[10:24:09] Tick count: 134067672
+[10:24:10] Tick count: 134068672
+[10:24:11] Tick count: 134069669
+[10:24:12] Tick count: 134070674
+[10:24:13] Tick count: 134071670
+[10:24:14] Tick count: 134072669
+[10:24:15] Tick count: 134073669
+[10:24:16] Tick count: 134074673
+[10:24:17] Tick count: 134075669
+[10:24:18] Tick count: 134076671
+[10:24:19] Tick count: 134077669
+[10:24:20] Tick count: 134078669
+[10:24:21] Tick count: 134079671
+[10:24:22] Tick count: 134080669
+[10:24:23] Tick count: 134081672
+[10:24:24] Tick count: 134082673
+[10:24:25] Tick count: 134083673
+[10:24:26] Tick count: 134084670
+[10:24:27] Tick count: 134085672
+[10:24:28] Tick count: 134086673
+[10:24:29] Tick count: 134087670
+[10:24:30] Tick count: 134088673
+[10:24:31] Tick count: 134089670
+[10:24:32] Tick count: 134090669
+[10:24:33] Tick count: 134091669
+[10:24:34] Tick count: 134092672
+[10:24:35] Tick count: 134093671
+[10:24:36] Tick count: 134094671
+[10:24:37] Tick count: 134095674
+[10:24:38] Tick count: 134096670
+[10:24:39] Tick count: 134097673
+[10:24:40] Tick count: 134098671
+[10:24:41] Tick count: 134099669
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7, (C)2005-2015 SA-MP Team
+
+[10:24:46] filterscripts = ""  (string)
+[10:24:46] 
+[10:24:46] Server Plugins
+[10:24:46] --------------
+[10:24:46]  Loading plugin: helloworld
+[10:24:46]   Loaded.
+[10:24:46]  Loaded 1 plugins.
+
+[10:24:46] 
+[10:24:46] Filterscripts
+[10:24:46] ---------------
+[10:24:46]   Loaded 0 filterscripts.
+
+[10:24:46] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[10:24:46] 
+----------------------------------
+[10:24:46]   Bare Script
+
+[10:24:46] ----------------------------------
+
+[10:24:46] Number of vehicle models: 0
+[10:24:47] Tick count: 134105324
+[10:24:48] Tick count: 134106327
+[10:24:49] Tick count: 134107327
+[10:24:50] [connection] 127.0.0.1:57267 requests connection cookie.
+[10:24:50] Tick count: 134108327
+[10:24:51] Incoming connection: 127.0.0.1:57267 id: 0
+[10:24:51] Tick count: 134109324
+[10:24:51] [join] Fawkes has joined the server (0:127.0.0.1)
+[10:24:52] Tick count: 134110327
+[10:24:53] Tick count: 134111328
+[10:24:54] Tick count: 134112327
+[10:24:55] Tick count: 134113326
+[10:24:56] Tick count: 134114325
+[10:24:57] Tick count: 134115326
+[10:24:58] Tick count: 134116329
+[10:24:59] Tick count: 134117328
+[10:25:00] Tick count: 134118327
+[10:25:01] Tick count: 134119329
+[10:25:02] Tick count: 134120326
+[10:25:03] Tick count: 134121328
+[10:25:04] Tick count: 134122327
+[10:25:05] Tick count: 134123326
+[10:25:06] Tick count: 134124325
+[10:25:07] Tick count: 134125325
+[10:25:08] Tick count: 134126329
+[10:25:09] Tick count: 134127324
+[10:25:10] Tick count: 134128325
+[10:25:11] Tick count: 134129326
+[10:25:12] Tick count: 134130326
+[10:25:13] Tick count: 134131325
+[10:25:14] Tick count: 134132324
+[10:25:15] Tick count: 134133325
+[10:25:16] Tick count: 134134325
+[10:25:17] Tick count: 134135324
+[10:25:18] Tick count: 134136326
+[10:25:19] Tick count: 134137324
+[10:25:20] Tick count: 134138324
+[10:25:21] Tick count: 134139325
+[10:25:22] Tick count: 134140329
+[10:25:23] Tick count: 134141325
+[10:25:24] Tick count: 134142328
+[10:25:25] Tick count: 134143326
+[10:25:26] Tick count: 134144324
+[10:25:27] Tick count: 134145326
+[10:25:28] Tick count: 134146324
+[10:25:29] Tick count: 134147326
+[10:25:30] Tick count: 134148324
+[10:25:31] Tick count: 134149328
+[10:25:32] Tick count: 134150325
+[10:25:33] Tick count: 134151325
+[10:25:34] Tick count: 134152326
+[10:25:35] Tick count: 134153325
+[10:25:36] Tick count: 134154329
+[10:25:37] Tick count: 134155327
+[10:25:38] Tick count: 134156325
+[10:25:39] Tick count: 134157324
+[10:25:40] Tick count: 134158328
+[10:25:41] Tick count: 134159327
+[10:25:42] Tick count: 134160328
+[10:25:43] Tick count: 134161328
+[10:25:44] Tick count: 134162329
+[10:25:45] Tick count: 134163324
+[10:25:46] Tick count: 134164326
+[10:25:47] Tick count: 134165324
+[10:25:48] Tick count: 134166327
+[10:25:49] Tick count: 134167325
+[10:25:50] Tick count: 134168328
+[10:25:51] Tick count: 134169324
+[10:25:52] Tick count: 134170326
+[10:25:53] Tick count: 134171326
+[10:25:54] Tick count: 134172324
+[10:25:55] Tick count: 134173325
+[10:25:56] Tick count: 134174327
+[10:25:57] Tick count: 134175328
+[10:25:58] Tick count: 134176324
+[10:25:59] Tick count: 134177329
+[10:26:00] Tick count: 134178332
+[10:26:01] Tick count: 134179327
+[10:26:02] Tick count: 134180326
+[10:26:03] Tick count: 134181329
+[10:26:04] Tick count: 134182325
+[10:26:05] Tick count: 134183324
+[10:26:06] Tick count: 134184325
+[10:26:07] Tick count: 134185329
+[10:26:08] Tick count: 134186326
+[10:26:09] Tick count: 134187324
+[10:26:10] Tick count: 134188324
+[10:26:11] Tick count: 134189329
+[10:26:12] Tick count: 134190326
+[10:26:13] Tick count: 134191326
+[10:26:14] Tick count: 134192330
+[10:26:15] Tick count: 134193328
+[10:26:16] Tick count: 134194326
+[10:26:17] Tick count: 134195329
+[10:26:18] Tick count: 134196326
+[10:26:19] Tick count: 134197328
+[10:26:20] Tick count: 134198327
+[10:26:21] Tick count: 134199325
+[10:26:22] Tick count: 134200328
+[10:26:23] Tick count: 134201325
+[10:26:24] Tick count: 134202326
+[10:26:25] Tick count: 134203324
+[10:26:26] Tick count: 134204325
+[10:26:27] Tick count: 134205328
+[10:26:28] Tick count: 134206328
+[10:26:29] Tick count: 134207326
+[10:26:30] Tick count: 134208328
+[10:26:31] Tick count: 134209325
+[10:26:32] Tick count: 134210327
+[10:26:33] Tick count: 134211325
+[10:26:34] Tick count: 134212327
+[10:26:35] Tick count: 134213325
+[10:26:36] Tick count: 134214327
+[10:26:37] Tick count: 134215324
+[10:26:38] Tick count: 134216327
+[10:26:39] Tick count: 134217327
+[10:26:40] Tick count: 134218324
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7, (C)2005-2015 SA-MP Team
+
+[10:26:48] filterscripts = ""  (string)
+[10:26:48] 
+[10:26:48] Server Plugins
+[10:26:48] --------------
+[10:26:48]  Loading plugin: helloworld
+[10:26:48]   Loaded.
+[10:26:48]  Loaded 1 plugins.
+
+[10:26:48] 
+[10:26:48] Filterscripts
+[10:26:48] ---------------
+[10:26:48]   Loaded 0 filterscripts.
+
+[10:26:48] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[10:26:48] 
+----------------------------------
+[10:26:48]   Bare Script
+
+[10:26:48] ----------------------------------
+
+[10:26:48] Number of vehicle models: 0
+[10:26:49] Tick count: 134227281
+[10:26:50] Tick count: 134228279
+[10:26:51] Tick count: 134229277
+[10:26:52] Tick count: 134230278
+[10:26:52] [connection] 127.0.0.1:49910 requests connection cookie.
+[10:26:53] Tick count: 134231280
+[10:26:53] Incoming connection: 127.0.0.1:49910 id: 0
+[10:26:54] [join] Fawkes has joined the server (0:127.0.0.1)
+[10:26:54] Tick count: 134232279
+[10:26:55] Tick count: 134233280
+[10:26:56] Tick count: 134234281
+[10:26:57] Tick count: 134235279
+[10:26:58] Tick count: 134236280
+[10:26:59] Tick count: 134237280
+[10:27:00] Tick count: 134238278
+[10:27:01] Tick count: 134239279
+[10:27:02] Tick count: 134240282
+[10:27:03] Tick count: 134241281
+[10:27:04] Tick count: 134242280
+[10:27:05] Tick count: 134243278
+[10:27:06] Tick count: 134244281
+[10:27:07] Tick count: 134245281
+[10:27:08] Tick count: 134246279
+[10:27:09] Tick count: 134247277
+[10:27:10] Tick count: 134248281
+[10:27:11] Tick count: 134249279
+[10:27:12] Tick count: 134250279
+[10:27:13] Tick count: 134251279
+[10:27:14] Tick count: 134252277
+[10:27:15] Tick count: 134253278
+[10:27:16] Tick count: 134254277
+[10:27:17] Tick count: 134255278
+[10:27:18] Tick count: 134256279
+[10:27:19] Tick count: 134257277
+[10:27:20] Tick count: 134258280
+[10:27:21] Tick count: 134259278
+[10:27:22] Tick count: 134260278
+[10:27:23] Tick count: 134261278
+[10:27:24] Tick count: 134262277
+[10:27:25] Tick count: 134263282
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7, (C)2005-2015 SA-MP Team
+
+[10:27:37] filterscripts = ""  (string)
+[10:27:37] 
+[10:27:37] Server Plugins
+[10:27:37] --------------
+[10:27:37]  Loading plugin: helloworld
+[10:27:37]   Loaded.
+[10:27:37]  Loaded 1 plugins.
+
+[10:27:37] 
+[10:27:37] Filterscripts
+[10:27:37] ---------------
+[10:27:37]   Loaded 0 filterscripts.
+
+[10:27:37] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[10:27:37] 
+----------------------------------
+[10:27:37]   Bare Script
+
+[10:27:37] ----------------------------------
+
+[10:27:37] Number of vehicle models: 0
+[10:27:38] Tick count: 134276545
+[10:27:39] Tick count: 134277538
+[10:27:40] Tick count: 134278542
+[10:27:41] [connection] 127.0.0.1:52375 requests connection cookie.
+[10:27:41] Tick count: 134279538
+[10:27:42] Incoming connection: 127.0.0.1:52375 id: 0
+[10:27:42] [join] Fawkes has joined the server (0:127.0.0.1)
+[10:27:42] Tick count: 134280543
+[10:27:43] Tick count: 134281538
+[10:27:44] Tick count: 134282541
+[10:27:45] Tick count: 134283538
+[10:27:46] Tick count: 134284539
+[10:27:47] Tick count: 134285542
+[10:27:48] Tick count: 134286543
+[10:27:49] Tick count: 134287543
+[10:27:50] Tick count: 134288543
+[10:27:51] Tick count: 134289540
+[10:27:52] Tick count: 134290542
+[10:27:53] Tick count: 134291543
+[10:27:54] Tick count: 134292539
+[10:27:55] Tick count: 134293540
+[10:27:56] Tick count: 134294541
+[10:27:57] Tick count: 134295539
+[10:27:58] Tick count: 134296539
+[10:27:59] Tick count: 134297541
+[10:28:00] Tick count: 134298538
+[10:28:01] Tick count: 134299540
+[10:28:02] Tick count: 134300541
+[10:28:03] Tick count: 134301542
+[10:28:04] Tick count: 134302543
+[10:28:05] Tick count: 134303542
+[10:28:06] Tick count: 134304540
+[10:28:07] Tick count: 134305540
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7, (C)2005-2015 SA-MP Team
+
+[10:29:19] filterscripts = ""  (string)
+[10:29:19] 
+[10:29:19] Server Plugins
+[10:29:19] --------------
+[10:29:19]  Loading plugin: helloworld
+[10:29:19]   Loaded.
+[10:29:19]  Loaded 1 plugins.
+
+[10:29:19] 
+[10:29:19] Filterscripts
+[10:29:19] ---------------
+[10:29:19]   Loaded 0 filterscripts.
+
+[10:29:19] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[10:29:19] 
+----------------------------------
+[10:29:19]   Bare Script
+
+[10:29:19] ----------------------------------
+
+[10:29:19] Number of vehicle models: 0
+[10:29:20] Tick count: 134378129
+[10:29:21] Tick count: 134379129
+[10:29:21] [connection] 127.0.0.1:64084 requests connection cookie.
+[10:29:22] Tick count: 134380131
+[10:29:22] Incoming connection: 127.0.0.1:64084 id: 0
+[10:29:22] [join] Fawkes has joined the server (0:127.0.0.1)
+[10:29:23] Tick count: 134381131
+[10:29:24] Tick count: 134382131
+[10:29:25] Tick count: 134383128
+[10:29:26] Tick count: 134384126
+[10:29:27] Tick count: 134385128
+[10:29:28] Tick count: 134386128
+[10:29:29] Tick count: 134387128
+[10:29:30] Tick count: 134388127
+[10:29:31] Tick count: 134389127
+[10:29:32] Tick count: 134390129
+[10:29:33] Tick count: 134391126
+[10:29:34] Tick count: 134392127
+[10:29:35] Tick count: 134393130
+[10:29:36] Tick count: 134394130
+[10:29:37] Tick count: 134395130
+[10:29:38] Tick count: 134396130
+[10:29:39] Tick count: 134397128
+[10:29:40] Tick count: 134398129
+[10:29:41] Tick count: 134399129
+[10:29:42] Tick count: 134400128
+[10:29:43] Tick count: 134401130
+[10:29:44] Tick count: 134402126
+[10:29:45] Tick count: 134403128
+[10:29:46] Tick count: 134404128
+[10:29:47] Tick count: 134405127
+[10:29:48] Tick count: 134406131
+[10:29:49] Tick count: 134407130
+[10:29:50] Tick count: 134408146
+[10:29:51] Tick count: 134409127
+[10:29:52] Tick count: 134410126
+[10:29:53] Tick count: 134411130
+[10:29:54] Tick count: 134412128
+[10:29:55] Tick count: 134413128
+[10:29:56] Tick count: 134414128
+[10:29:57] Tick count: 134415130
+[10:29:58] Tick count: 134416129
+[10:29:59] Tick count: 134417129
+[10:30:00] Tick count: 134418126
+[10:30:01] Tick count: 134419129
+[10:30:02] Tick count: 134420127
+[10:30:03] Tick count: 134421127
+[10:30:04] Tick count: 134422129
+[10:30:05] Tick count: 134423128
+[10:30:06] Tick count: 134424127
+[10:30:07] Tick count: 134425128
+[10:30:08] Tick count: 134426131
+[10:30:09] Tick count: 134427130
+[10:30:10] Tick count: 134428128
+[10:30:11] Tick count: 134429130
+[10:30:12] Tick count: 134430126
+[10:30:13] Tick count: 134431128
+[10:30:14] Tick count: 134432129
+[10:30:15] Tick count: 134433128
+[10:30:16] Tick count: 134434131
+[10:30:17] Tick count: 134435127
+[10:30:18] Tick count: 134436126
+[10:30:19] Tick count: 134437127
+[10:30:20] Tick count: 134438128
+[10:30:21] Tick count: 134439128
+[10:30:22] Tick count: 134440130
+[10:30:23] Tick count: 134441130
+[10:30:24] Tick count: 134442131
+[10:30:25] Tick count: 134443130
+[10:30:26] Tick count: 134444131
+[10:30:27] Tick count: 134445130
+[10:30:28] Tick count: 134446127
+[10:30:29] Tick count: 134447126
+[10:30:30] Tick count: 134448126
+[10:30:31] Tick count: 134449128
+[10:30:32] Tick count: 134450130
+[10:30:33] Tick count: 134451128
+[10:30:34] Tick count: 134452126
+[10:30:35] Tick count: 134453130
+[10:30:36] Tick count: 134454130
+[10:30:37] Tick count: 134455126
+[10:30:38] Tick count: 134456128
+[10:30:39] Tick count: 134457128
+[10:30:40] Tick count: 134458132
+[10:30:41] Tick count: 134459126
+[10:30:42] Tick count: 134460127
+[10:30:43] Tick count: 134461129
+[10:30:44] Tick count: 134462128
+[10:30:45] Tick count: 134463128
+[10:30:46] Tick count: 134464130
+[10:30:47] Tick count: 134465128
+[10:30:48] Tick count: 134466131
+[10:30:49] Tick count: 134467129
+[10:30:50] Tick count: 134468126
+[10:30:51] Tick count: 134469129
+[10:30:52] Tick count: 134470126
+[10:30:53] Tick count: 134471129
+[10:30:54] Tick count: 134472127
+[10:30:55] Tick count: 134473131
+[10:30:56] Tick count: 134474126
+[10:30:57] Tick count: 134475126
+[10:30:58] Tick count: 134476131
+[10:30:59] Tick count: 134477129
+[10:31:00] Tick count: 134478129
+[10:31:01] Tick count: 134479128
+[10:31:02] Tick count: 134480131
+[10:31:03] Tick count: 134481131
+[10:31:04] Tick count: 134482127
+[10:31:05] Tick count: 134483129
+[10:31:06] Tick count: 134484131
+[10:31:07] Tick count: 134485126
+[10:31:08] Tick count: 134486130
+[10:31:09] Tick count: 134487128
+[10:31:10] Tick count: 134488126
+[10:31:11] Tick count: 134489127
+[10:31:12] Tick count: 134490128
+[10:31:13] Tick count: 134491126
+[10:31:14] Tick count: 134492130
+[10:31:15] Tick count: 134493127
+[10:31:16] Tick count: 134494129
+[10:31:17] Tick count: 134495132
+[10:31:18] Tick count: 134496128
+[10:31:19] Tick count: 134497131
+[10:31:20] Tick count: 134498131
+[10:31:21] Tick count: 134499126
+[10:31:22] Tick count: 134500128
+[10:31:23] Tick count: 134501129
+[10:31:24] Tick count: 134502128
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7, (C)2005-2015 SA-MP Team
+
+[10:31:38] filterscripts = ""  (string)
+[10:31:38] 
+[10:31:38] Server Plugins
+[10:31:38] --------------
+[10:31:38]  Loading plugin: helloworld
+[10:31:38]   Loaded.
+[10:31:38]  Loaded 1 plugins.
+
+[10:31:38] 
+[10:31:38] Filterscripts
+[10:31:38] ---------------
+[10:31:38]   Loaded 0 filterscripts.
+
+[10:31:38] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[10:31:38] 
+----------------------------------
+[10:31:38]   Bare Script
+
+[10:31:38] ----------------------------------
+
+[10:31:38] Number of vehicle models: 0
+[10:31:39] Tick count: 134517751
+[10:31:40] [connection] 127.0.0.1:54296 requests connection cookie.
+[10:31:40] Tick count: 134518749
+[10:31:41] Incoming connection: 127.0.0.1:54296 id: 0
+[10:31:41] [join] Fawkes has joined the server (0:127.0.0.1)
+[10:31:41] Tick count: 134519749
+[10:31:42] Tick count: 134520752
+[10:31:43] Tick count: 134521751
+[10:31:44] Tick count: 134522748
+[10:31:45] Tick count: 134523748
+[10:31:46] Tick count: 134524750
+[10:31:47] Tick count: 134525752
+[10:31:48] Tick count: 134526748
+[10:31:49] Tick count: 134527752
+[10:31:50] Tick count: 134528748
+[10:31:51] Tick count: 134529749
+[10:31:52] Tick count: 134530751
+[10:31:53] Tick count: 134531751
+[10:31:54] Tick count: 134532747
+[10:31:55] Tick count: 134533751
+[10:31:56] Tick count: 134534751
+[10:31:57] Tick count: 134535752
+[10:31:58] Tick count: 134536748
+[10:31:59] Tick count: 134537747
+[10:32:00] Tick count: 134538750
+[10:32:01] Tick count: 134539752
+[10:32:02] Tick count: 134540751
+[10:32:03] Tick count: 134541752
+[10:32:04] Tick count: 134542749
+[10:32:05] Tick count: 134543749
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7, (C)2005-2015 SA-MP Team
+
+[10:32:18] filterscripts = ""  (string)
+[10:32:18] 
+[10:32:18] Server Plugins
+[10:32:18] --------------
+[10:32:18]  Loading plugin: helloworld
+[10:32:18]   Loaded.
+[10:32:18]  Loaded 1 plugins.
+
+[10:32:18] 
+[10:32:18] Filterscripts
+[10:32:18] ---------------
+[10:32:18]   Loaded 0 filterscripts.
+
+[10:32:18] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[10:32:18] 
+----------------------------------
+[10:32:18]   Bare Script
+
+[10:32:18] ----------------------------------
+
+[10:32:18] Number of vehicle models: 0
+[10:32:19] Tick count: 134557051
+[10:32:20] Tick count: 134558051
+[10:32:21] [connection] 127.0.0.1:54297 requests connection cookie.
+[10:32:21] Tick count: 134559050
+[10:32:22] Incoming connection: 127.0.0.1:54297 id: 0
+[10:32:22] Tick count: 134560049
+[10:32:22] [join] Fawkes has joined the server (0:127.0.0.1)
+[10:32:23] Tick count: 134561049
+[10:32:24] Tick count: 134562051
+[10:32:25] Tick count: 134563050
+[10:32:26] Tick count: 134564048
+[10:32:27] Tick count: 134565052
+[10:32:28] Tick count: 134566051
+[10:32:29] Tick count: 134567050
+[10:32:30] Tick count: 134568052
+[10:32:31] Tick count: 134569053
+[10:32:32] Tick count: 134570048
+[10:32:33] Tick count: 134571048
+[10:32:34] Tick count: 134572050
+[10:32:35] Tick count: 134573048
+[10:32:36] Tick count: 134574053
+[10:32:37] Tick count: 134575048
+[10:32:38] Tick count: 134576049
+[10:32:39] Tick count: 134577048
+[10:32:40] Tick count: 134578049
+[10:32:41] Tick count: 134579050
+[10:32:42] Tick count: 134580049
+[10:32:43] Tick count: 134581050
+[10:32:44] Tick count: 134582051
+[10:32:45] Tick count: 134583050
+[10:32:46] Tick count: 134584049
+[10:32:47] Tick count: 134585050
+[10:32:48] Tick count: 134586050
+[10:32:49] Tick count: 134587049
+[10:32:50] Tick count: 134588051
+[10:32:51] Tick count: 134589052
+[10:32:52] Tick count: 134590051
+[10:32:53] Tick count: 134591050
+[10:32:54] Tick count: 134592049
+[10:32:55] Tick count: 134593048
+[10:32:56] Tick count: 134594049
+[10:32:57] Tick count: 134595051
+[10:32:58] Tick count: 134596052
+[10:32:59] Tick count: 134597048
+[10:33:00] Tick count: 134598048
+[10:33:01] Tick count: 134599050
+[10:33:02] Tick count: 134600052
+[10:33:03] Tick count: 134601050
+[10:33:04] Tick count: 134602053
+[10:33:05] Tick count: 134603050
+[10:33:06] Tick count: 134604051
+[10:33:07] Tick count: 134605050
+[10:33:08] Tick count: 134606053
+[10:33:09] Tick count: 134607052
+[10:33:10] Tick count: 134608052
+[10:33:11] Tick count: 134609049
+[10:33:12] Tick count: 134610049
+[10:33:13] Tick count: 134611052
+[10:33:14] Tick count: 134612049
+[10:33:15] Tick count: 134613051
+[10:33:16] Tick count: 134614050
+[10:33:17] Tick count: 134615051
+[10:33:18] Tick count: 134616049
+[10:33:19] Tick count: 134617048
+[10:33:20] Tick count: 134618053
+[10:33:21] Tick count: 134619048
+[10:33:22] Tick count: 134620051
+[10:33:23] Tick count: 134621049
+[10:33:24] Tick count: 134622051
+[10:33:25] Tick count: 134623051
+[10:33:26] Tick count: 134624049
+[10:33:27] Tick count: 134625052
+[10:33:28] Tick count: 134626049
+[10:33:29] Tick count: 134627053
+[10:33:30] Tick count: 134628049
+[10:33:31] Tick count: 134629048
+[10:33:32] Tick count: 134630051
+[10:33:33] Tick count: 134631050
+[10:33:34] Tick count: 134632052
+[10:33:35] Tick count: 134633051
+[10:33:36] Tick count: 134634052
+[10:33:37] Tick count: 134635053
+[10:33:38] Tick count: 134636050
+[10:33:39] Tick count: 134637050
+[10:33:40] Tick count: 134638052
+[10:33:41] Tick count: 134639052
+[10:33:42] Tick count: 134640052
+[10:33:43] Tick count: 134641052
+[10:33:44] Tick count: 134642048
+[10:33:45] Tick count: 134643050
+[10:33:46] Tick count: 134644049
+[10:33:47] Tick count: 134645050
+[10:33:48] Tick count: 134646048
+[10:33:49] Tick count: 134647049
+[10:33:50] Tick count: 134648050
+[10:33:51] Tick count: 134649048
+[10:33:52] Tick count: 134650050
+[10:33:53] Tick count: 134651053
+[10:33:54] Tick count: 134652048
+[10:33:55] Tick count: 134653053
+[10:33:56] Tick count: 134654051
+[10:33:57] Tick count: 134655049
+[10:33:58] Tick count: 134656052
+[10:33:59] Tick count: 134657049
+[10:34:00] Tick count: 134658051
+[10:34:01] Tick count: 134659051
+[10:34:02] Tick count: 134660048
+[10:34:03] Tick count: 134661052
+[10:34:04] Tick count: 134662050
+[10:34:05] Tick count: 134663049
+[10:34:06] Tick count: 134664048
+[10:34:07] Tick count: 134665048
+[10:34:08] Tick count: 134666052
+[10:34:09] Tick count: 134667053
+[10:34:10] Tick count: 134668048
+[10:34:11] Tick count: 134669051
+[10:34:12] Tick count: 134670052
+[10:34:13] Tick count: 134671048
+[10:34:14] Tick count: 134672051
+[10:34:15] Tick count: 134673048
+[10:34:16] Tick count: 134674048
+[10:34:17] Tick count: 134675050
+[10:34:18] Tick count: 134676048
+[10:34:19] Tick count: 134677053
+[10:34:20] Tick count: 134678049
+[10:34:21] Tick count: 134679049
+[10:34:22] Tick count: 134680052
+[10:34:23] Tick count: 134681050
+[10:34:24] Tick count: 134682048
+[10:34:25] Tick count: 134683048
+[10:34:26] Tick count: 134684052
+[10:34:27] Tick count: 134685050
+[10:34:28] Tick count: 134686050
+[10:34:29] Tick count: 134687048
+[10:34:30] Tick count: 134688048
+[10:34:31] Tick count: 134689050
+[10:34:32] Tick count: 134690053
+[10:34:33] Tick count: 134691051
+[10:34:34] Tick count: 134692049
+[10:34:35] Tick count: 134693051
+[10:34:36] Tick count: 134694052
+[10:34:37] Tick count: 134695049
+[10:34:38] Tick count: 134696052
+[10:34:39] Tick count: 134697048
+[10:34:40] Tick count: 134698048
+[10:34:41] Tick count: 134699049
+[10:34:42] Tick count: 134700052
+[10:34:43] Tick count: 134701049
+[10:34:44] Tick count: 134702053
+[10:34:45] Tick count: 134703052
+[10:34:46] Tick count: 134704053
+[10:34:47] Tick count: 134705048
+[10:34:48] Tick count: 134706050
+[10:34:49] Tick count: 134707048
+[10:34:50] Tick count: 134708053
+[10:34:51] Tick count: 134709049
+[10:34:52] Tick count: 134710048
+[10:34:53] Tick count: 134711049
+[10:34:54] Tick count: 134712053
+[10:34:55] Tick count: 134713051
+[10:34:56] Tick count: 134714048
+[10:34:57] Tick count: 134715049
+[10:34:58] Tick count: 134716053
+[10:34:59] Tick count: 134717050
+[10:35:00] Tick count: 134718054
+[10:35:01] Tick count: 134719053
+[10:35:02] Tick count: 134720050
+[10:35:03] Tick count: 134721052
+[10:35:04] Tick count: 134722049
+[10:35:05] Tick count: 134723051
+[10:35:06] Tick count: 134724052
+[10:35:07] Tick count: 134725050
+[10:35:08] Tick count: 134726053
+[10:35:09] Tick count: 134727053
+[10:35:10] Tick count: 134728050
+[10:35:11] Tick count: 134729049
+[10:35:12] Tick count: 134730052
+[10:35:13] Tick count: 134731052
+[10:35:14] Tick count: 134732053
+[10:35:15] Tick count: 134733049
+[10:35:16] Tick count: 134734052
+[10:35:17] Tick count: 134735051
+[10:35:18] Tick count: 134736053
+[10:35:19] Tick count: 134737053
+[10:35:20] Tick count: 134738053
+[10:35:21] Tick count: 134739048
+[10:35:22] Tick count: 134740049
+[10:35:23] Tick count: 134741048
+[10:35:24] Tick count: 134742051
+[10:35:25] Tick count: 134743051
+[10:35:26] Tick count: 134744051
+[10:35:27] Tick count: 134745050
+[10:35:28] Tick count: 134746048
+[10:35:29] Tick count: 134747049
+[10:35:30] Tick count: 134748048
+[10:35:31] Tick count: 134749048
+[10:35:32] Tick count: 134750052
+[10:35:33] Tick count: 134751052
+[10:35:34] Tick count: 134752048
+[10:35:35] Tick count: 134753050
+[10:35:36] Tick count: 134754051
+[10:35:37] Tick count: 134755049
+[10:35:38] Tick count: 134756051
+[10:35:39] Tick count: 134757048
+[10:35:40] Tick count: 134758049
+[10:35:41] Tick count: 134759050
+[10:35:42] Tick count: 134760053
+[10:35:43] Tick count: 134761050
+[10:35:44] Tick count: 134762051
+[10:35:45] Tick count: 134763048
+[10:35:46] Tick count: 134764050
+[10:35:47] Tick count: 134765048
+[10:35:48] Tick count: 134766053
+[10:35:49] Tick count: 134767051
+[10:35:50] Tick count: 134768049
+[10:35:51] Tick count: 134769049
+[10:35:52] Tick count: 134770051
+[10:35:53] Tick count: 134771051
+[10:35:54] Tick count: 134772050
+[10:35:55] Tick count: 134773049
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7, (C)2005-2015 SA-MP Team
+
+[10:36:14] filterscripts = ""  (string)
+[10:36:14] 
+[10:36:14] Server Plugins
+[10:36:14] --------------
+[10:36:14]  Loading plugin: helloworld
+[10:36:14]   Loaded.
+[10:36:14]  Loaded 1 plugins.
+
+[10:36:14] 
+[10:36:14] Filterscripts
+[10:36:14] ---------------
+[10:36:14]   Loaded 0 filterscripts.
+
+[10:36:14] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[10:36:14] 
+----------------------------------
+[10:36:14]   Bare Script
+
+[10:36:14] ----------------------------------
+
+[10:36:14] Number of vehicle models: 0
+[10:36:15] Tick count: 134793710
+[10:36:16] [connection] 127.0.0.1:60264 requests connection cookie.
+[10:36:16] Tick count: 134794706
+[10:36:17] Incoming connection: 127.0.0.1:60264 id: 0
+[10:36:17] [join] Fawkes has joined the server (0:127.0.0.1)
+[10:36:17] Tick count: 134795706
+[10:36:18] Tick count: 134796705
+[10:36:19] Tick count: 134797708
+[10:36:20] Tick count: 134798707
+[10:36:21] Tick count: 134799706
+[10:36:22] Tick count: 134800706
+[10:36:23] Tick count: 134801709
+[10:36:24] Tick count: 134802705
+[10:36:25] Tick count: 134803707
+[10:36:26] Tick count: 134804710
+[10:36:27] Tick count: 134805707
+[10:36:28] Tick count: 134806710
+[10:36:29] Tick count: 134807706
+[10:36:30] Tick count: 134808705
+[10:36:31] Tick count: 134809710
+[10:36:32] Tick count: 134810708
+[10:36:33] Tick count: 134811709
+[10:36:34] Tick count: 134812705
+[10:36:35] Tick count: 134813707
+[10:36:36] Tick count: 134814711
+[10:36:37] Tick count: 134815706
+[10:36:38] Tick count: 134816705
+[10:36:39] Tick count: 134817709
+[10:36:40] Tick count: 134818709
+[10:36:41] Tick count: 134819709
+[10:36:42] Tick count: 134820710
+[10:36:43] Tick count: 134821705
+[10:36:44] Tick count: 134822709
+[10:36:45] Tick count: 134823709
+[10:36:46] Tick count: 134824710
+[10:36:47] Tick count: 134825708
+[10:36:48] Tick count: 134826706
+[10:36:49] Tick count: 134827710
+[10:36:50] Tick count: 134828709
+[10:36:51] Tick count: 134829705
+[10:36:52] Tick count: 134830705
+[10:36:53] Tick count: 134831708
+[10:36:54] Tick count: 134832706
+[10:36:55] Tick count: 134833709
+[10:36:56] Tick count: 134834708
+[10:36:57] Tick count: 134835706
+[10:36:58] Tick count: 134836707
+[10:36:59] Tick count: 134837710
+[10:37:00] Tick count: 134838709
+[10:37:01] Tick count: 134839706
+[10:37:02] Tick count: 134840708
+[10:37:03] Tick count: 134841710
+[10:37:04] Tick count: 134842711
+[10:37:05] Tick count: 134843710
+[10:37:06] Tick count: 134844705
+[10:37:07] Tick count: 134845705
+[10:37:08] Tick count: 134846707
+[10:37:09] Tick count: 134847706
+[10:37:10] Tick count: 134848710
+[10:37:11] Tick count: 134849705
+[10:37:12] Tick count: 134850708
+[10:37:13] Tick count: 134851706
+[10:37:14] Tick count: 134852710
+[10:37:15] Tick count: 134853705
+[10:37:16] Tick count: 134854708
+[10:37:17] Tick count: 134855706
+[10:37:18] Tick count: 134856708
+[10:37:19] Tick count: 134857706
+[10:37:20] Tick count: 134858708
+[10:37:21] Tick count: 134859706
+[10:37:22] Tick count: 134860710
+[10:37:23] Tick count: 134861708
+[10:37:24] Tick count: 134862706
+[10:37:25] Tick count: 134863707
+[10:37:26] Tick count: 134864708
+[10:37:27] Tick count: 134865705
+[10:37:28] Tick count: 134866710
+[10:37:29] Tick count: 134867709
+[10:37:30] Tick count: 134868708
+[10:37:31] Tick count: 134869706
+[10:37:32] Tick count: 134870710
+[10:37:33] Tick count: 134871707
+[10:37:34] Tick count: 134872705
+[10:37:35] Tick count: 134873714
+[10:37:36] Tick count: 134874710
+[10:37:37] Tick count: 134875708
+[10:37:38] Tick count: 134876709
+[10:37:39] Tick count: 134877705
+[10:37:40] Tick count: 134878706
+[10:37:41] Tick count: 134879709
+[10:37:42] Tick count: 134880706
+[10:37:43] Tick count: 134881707
+[10:37:44] Tick count: 134882708
+[10:37:45] Tick count: 134883707
+[10:37:46] Tick count: 134884707
+[10:37:47] Tick count: 134885707
+[10:37:48] Tick count: 134886706
+[10:37:49] Tick count: 134887708
+[10:37:50] Tick count: 134888710
+[10:37:51] Tick count: 134889706
+[10:37:52] Tick count: 134890710
+[10:37:53] Tick count: 134891708
+[10:37:54] Tick count: 134892706
+[10:37:55] Tick count: 134893708
+[10:37:56] Tick count: 134894706
+[10:37:57] Tick count: 134895705
+[10:37:58] Tick count: 134896705
+[10:37:59] Tick count: 134897708
+[10:38:00] Tick count: 134898707
+[10:38:01] Tick count: 134899706
+[10:38:02] Tick count: 134900707
+[10:38:03] Tick count: 134901710
+[10:38:04] Tick count: 134902707
+[10:38:05] Tick count: 134903706
+[10:38:06] Tick count: 134904705
+[10:38:07] Tick count: 134905709
+[10:38:08] Tick count: 134906706
+[10:38:09] Tick count: 134907706
+[10:38:10] Tick count: 134908709
+[10:38:11] Tick count: 134909710
+[10:38:12] Tick count: 134910706
+[10:38:13] Tick count: 134911705
+[10:38:14] Tick count: 134912709
+[10:38:15] Tick count: 134913710
+[10:38:16] Tick count: 134914707
+[10:38:17] Tick count: 134915708
+[10:38:18] Tick count: 134916708
+[10:38:19] Tick count: 134917708
+[10:38:20] Tick count: 134918709
+[10:38:21] Tick count: 134919709
+[10:38:22] Tick count: 134920710
+[10:38:23] Tick count: 134921708
+[10:38:24] Tick count: 134922708
+[10:38:25] Tick count: 134923705
+[10:38:26] Tick count: 134924707
+[10:38:27] Tick count: 134925708
+[10:38:28] Tick count: 134926706
+[10:38:29] Tick count: 134927707
+[10:38:30] Tick count: 134928709
+[10:38:31] Tick count: 134929708
+[10:38:32] Tick count: 134930705
+[10:38:33] Tick count: 134931707
+[10:38:34] Tick count: 134932708
+[10:38:35] Tick count: 134933709
+[10:38:36] Tick count: 134934708
+[10:38:37] Tick count: 134935709
+[10:38:38] Tick count: 134936706
+[10:38:39] Tick count: 134937708
+[10:38:40] Tick count: 134938709
+[10:38:41] Tick count: 134939710
+[10:38:42] Tick count: 134940706
+[10:38:43] Tick count: 134941707
+[10:38:44] Tick count: 134942707
+[10:38:45] Tick count: 134943709
+[10:38:46] Tick count: 134944707
+[10:38:47] Tick count: 134945706
+[10:38:48] Tick count: 134946707
+[10:38:49] Tick count: 134947705
+[10:38:50] Tick count: 134948706
+[10:38:51] Tick count: 134949706
+[10:38:52] Tick count: 134950705
+[10:38:53] Tick count: 134951708
+[10:38:54] Tick count: 134952707
+[10:38:55] Tick count: 134953709
+[10:38:56] Tick count: 134954708
+[10:38:57] Tick count: 134955706
+[10:38:58] Tick count: 134956710
+[10:38:59] Tick count: 134957709
+[10:39:00] Tick count: 134958705
+[10:39:01] Tick count: 134959707
+[10:39:02] Tick count: 134960705
+[10:39:03] Tick count: 134961709
+[10:39:04] Tick count: 134962709
+[10:39:05] Tick count: 134963705
+[10:39:06] Tick count: 134964706
+[10:39:07] Tick count: 134965706
+[10:39:08] Tick count: 134966705
+[10:39:09] Tick count: 134967707
+[10:39:10] Tick count: 134968705
+[10:39:11] Tick count: 134969708
+[10:39:12] Tick count: 134970705
+[10:39:13] Tick count: 134971707
+[10:39:14] Tick count: 134972708
+[10:39:15] Tick count: 134973706
+[10:39:16] Tick count: 134974706
+[10:39:17] Tick count: 134975707
+[10:39:18] Tick count: 134976709
+[10:39:19] Tick count: 134977707
+[10:39:20] Tick count: 134978710
+[10:39:21] Tick count: 134979710
+[10:39:22] Tick count: 134980706
+[10:39:23] Tick count: 134981710
+[10:39:24] Tick count: 134982706
+[10:39:25] Tick count: 134983709
+[10:39:26] Tick count: 134984706
+[10:39:27] Tick count: 134985709
+[10:39:28] Tick count: 134986710
+[10:39:29] Tick count: 134987706
+[10:39:30] Tick count: 134988707
+[10:39:31] Tick count: 134989705
+[10:39:32] Tick count: 134990705
+[10:39:33] Tick count: 134991705
+[10:39:34] Tick count: 134992707
+[10:39:35] Tick count: 134993708
+[10:39:36] Tick count: 134994710
+[10:39:37] Tick count: 134995708
+[10:39:38] Tick count: 134996705
+[10:39:39] Tick count: 134997707
+[10:39:40] Tick count: 134998705
+[10:39:41] Tick count: 134999708
+[10:39:42] Tick count: 135000710
+[10:39:43] Tick count: 135001710
+[10:39:44] Tick count: 135002706
+[10:39:45] Tick count: 135003709
+[10:39:46] Tick count: 135004705
+[10:39:47] Tick count: 135005710
+[10:39:48] Tick count: 135006706
+[10:39:49] Tick count: 135007708
+[10:39:50] Tick count: 135008705
+[10:39:51] Tick count: 135009710
+[10:39:52] Tick count: 135010709
+[10:39:53] Tick count: 135011709
+[10:39:54] Tick count: 135012710
+[10:39:55] Tick count: 135013706
+[10:39:56] Tick count: 135014707
+[10:39:57] Tick count: 135015708
+[10:39:58] Tick count: 135016711
+[10:39:59] Tick count: 135017711
+[10:40:00] Tick count: 135018708
+[10:40:01] Tick count: 135019707
+[10:40:02] Tick count: 135020710
+[10:40:03] Tick count: 135021708
+[10:40:04] Tick count: 135022707
+[10:40:05] Tick count: 135023708
+[10:40:06] Tick count: 135024708
+[10:40:07] Tick count: 135025708
+[10:40:08] Tick count: 135026709
+[10:40:09] Tick count: 135027709
+[10:40:10] Tick count: 135028706
+[10:40:11] Tick count: 135029709
+[10:40:12] Tick count: 135030706
+[10:40:13] Tick count: 135031710
+[10:40:14] Tick count: 135032710
+[10:40:15] Tick count: 135033708
+[10:40:16] Tick count: 135034706
+[10:40:17] Tick count: 135035707
+[10:40:18] Tick count: 135036708
+[10:40:19] Tick count: 135037708
+[10:40:20] Tick count: 135038709
+[10:40:21] Tick count: 135039708
+[10:40:22] Tick count: 135040711
+[10:40:23] Tick count: 135041710
+[10:40:24] Tick count: 135042711
+[10:40:25] Tick count: 135043706
+[10:40:26] Tick count: 135044708
+[10:40:27] Tick count: 135045707
+[10:40:28] Tick count: 135046708
+[10:40:29] Tick count: 135047711
+[10:40:30] Tick count: 135048711
+[10:40:31] Tick count: 135049707
+[10:40:32] Tick count: 135050708
+[10:40:33] Tick count: 135051710
+[10:40:34] Tick count: 135052711
+[10:40:35] Tick count: 135053710
+[10:40:36] Tick count: 135054707
+[10:40:37] Tick count: 135055709
+[10:40:38] Tick count: 135056706
+[10:40:39] Tick count: 135057706
+[10:40:40] Tick count: 135058707
+[10:40:41] Tick count: 135059707
+[10:40:42] Tick count: 135060709
+[10:40:43] Tick count: 135061711
+[10:40:44] Tick count: 135062707
+[10:40:45] Tick count: 135063706
+[10:40:46] Tick count: 135064707
+[10:40:47] Tick count: 135065708
+[10:40:48] Tick count: 135066706
+[10:40:49] Tick count: 135067709
+[10:40:50] Tick count: 135068711
+[10:40:51] Tick count: 135069710
+[10:40:52] Tick count: 135070710
+[10:40:53] Tick count: 135071708
+[10:40:54] Tick count: 135072710
+[10:40:55] Tick count: 135073712
+[10:40:56] Tick count: 135074707
+[10:40:57] Tick count: 135075711
+[10:40:58] Tick count: 135076708
+[10:40:59] Tick count: 135077708
+[10:41:00] Tick count: 135078708
+[10:41:01] Tick count: 135079714
+[10:41:02] Tick count: 135080710
+[10:41:03] Tick count: 135081710
+[10:41:04] Tick count: 135082711
+[10:41:05] Tick count: 135083709
+[10:41:06] Tick count: 135084708
+[10:41:07] Tick count: 135085712
+[10:41:08] Tick count: 135086709
+[10:41:09] Tick count: 135087709
+[10:41:10] Tick count: 135088711
+[10:41:11] Tick count: 135089711
+[10:41:12] Tick count: 135090711
+[10:41:13] Tick count: 135091711
+[10:41:14] Tick count: 135092711
+[10:41:15] Tick count: 135093707
+[10:41:16] Tick count: 135094708
+[10:41:17] Tick count: 135095711
+[10:41:18] Tick count: 135096712
+[10:41:19] Tick count: 135097710
+[10:41:20] Tick count: 135098708
+[10:41:21] Tick count: 135099707
+[10:41:22] Tick count: 135100707
+[10:41:23] Tick count: 135101711
+[10:41:24] Tick count: 135102712
+[10:41:25] Tick count: 135103708
+[10:41:26] Tick count: 135104710
+[10:41:27] Tick count: 135105707
+[10:41:28] Tick count: 135106711
+[10:41:29] Tick count: 135107711
+[10:41:30] Tick count: 135108707
+[10:41:31] Tick count: 135109709
+[10:41:32] Tick count: 135110712
+[10:41:33] Tick count: 135111707
+[10:41:34] Tick count: 135112710
+[10:41:35] Tick count: 135113709
+[10:41:36] Tick count: 135114709
+[10:41:37] Tick count: 135115707
+[10:41:38] Tick count: 135116708
+[10:41:39] Tick count: 135117708
+[10:41:40] Tick count: 135118707
+[10:41:41] Tick count: 135119708
+[10:41:42] Tick count: 135120712
+[10:41:43] Tick count: 135121707
+[10:41:44] Tick count: 135122709
+[10:41:45] Tick count: 135123709
+[10:41:46] Tick count: 135124708
+[10:41:47] Tick count: 135125707
+[10:41:48] Tick count: 135126711
+[10:41:49] Tick count: 135127710
+[10:41:50] Tick count: 135128712
+[10:41:51] Tick count: 135129709
+[10:41:52] Tick count: 135130712
+[10:41:53] Tick count: 135131712
+[10:41:54] Tick count: 135132711
+[10:41:55] Tick count: 135133708
+[10:41:56] Tick count: 135134707
+[10:41:57] Tick count: 135135709
+[10:41:58] Tick count: 135136711
+[10:41:59] Tick count: 135137709
+[10:42:00] Tick count: 135138709
+[10:42:01] Tick count: 135139708
+[10:42:02] Tick count: 135140712
+[10:42:03] Tick count: 135141709
+[10:42:04] Tick count: 135142707
+[10:42:05] Tick count: 135143707
+[10:42:06] Tick count: 135144707
+[10:42:07] Tick count: 135145711
+[10:42:08] Tick count: 135146712
+[10:42:09] Tick count: 135147712
+[10:42:10] Tick count: 135148708
+[10:42:11] Tick count: 135149710
+[10:42:12] Tick count: 135150710
+[10:42:13] Tick count: 135151709
+[10:42:14] Tick count: 135152711
+[10:42:15] Tick count: 135153707
+[10:42:16] Tick count: 135154713
+[10:42:17] Tick count: 135155711
+[10:42:18] Tick count: 135156712
+[10:42:19] Tick count: 135157709
+[10:42:20] Tick count: 135158712
+[10:42:21] Tick count: 135159707
+[10:42:22] Tick count: 135160709
+[10:42:23] Tick count: 135161710
+[10:42:24] Tick count: 135162711
+[10:42:25] Tick count: 135163711
+[10:42:26] Tick count: 135164711
+[10:42:27] Tick count: 135165712
+[10:42:28] Tick count: 135166708
+[10:42:29] Tick count: 135167712
+[10:42:30] Tick count: 135168710
+[10:42:31] Tick count: 135169708
+[10:42:32] Tick count: 135170711
+[10:42:33] Tick count: 135171707
+[10:42:34] Tick count: 135172708
+[10:42:35] Tick count: 135173711
+[10:42:36] Tick count: 135174707
+[10:42:37] Tick count: 135175708
+[10:42:38] Tick count: 135176709
+[10:42:39] Tick count: 135177709
+[10:42:40] Tick count: 135178709
+[10:42:41] Tick count: 135179712
+[10:42:42] Tick count: 135180710
+[10:42:43] Tick count: 135181711
+[10:42:44] Tick count: 135182711
+[10:42:45] Tick count: 135183707
+[10:42:46] Tick count: 135184709
+[10:42:47] Tick count: 135185709
+[10:42:48] Tick count: 135186709
+[10:42:49] Tick count: 135187709
+[10:42:50] Tick count: 135188707
+[10:42:51] Tick count: 135189712
+[10:42:52] Tick count: 135190709
+[10:42:53] Tick count: 135191707
+[10:42:54] Tick count: 135192710
+[10:42:55] Tick count: 135193707
+[10:42:56] Tick count: 135194711
+[10:42:57] Tick count: 135195707
+[10:42:58] Tick count: 135196710
+[10:42:59] Tick count: 135197711
+[10:43:00] Tick count: 135198707
+[10:43:01] Tick count: 135199711
+[10:43:02] Tick count: 135200708
+[10:43:03] Tick count: 135201710
+[10:43:04] Tick count: 135202710
+[10:43:05] Tick count: 135203708
+[10:43:06] Tick count: 135204709
+[10:43:07] Tick count: 135205711
+[10:43:08] Tick count: 135206712
+[10:43:09] Tick count: 135207707
+[10:43:10] Tick count: 135208710
+[10:43:11] Tick count: 135209708
+[10:43:12] Tick count: 135210712
+[10:43:13] Tick count: 135211709
+[10:43:14] Tick count: 135212708
+[10:43:15] Tick count: 135213707
+[10:43:16] Tick count: 135214708
+[10:43:17] Tick count: 135215708
+[10:43:18] Tick count: 135216707
+[10:43:19] Tick count: 135217711
+[10:43:20] Tick count: 135218711
+[10:43:21] Tick count: 135219711
+[10:43:22] Tick count: 135220710
+[10:43:23] Tick count: 135221707
+[10:43:24] Tick count: 135222708
+[10:43:25] Tick count: 135223710
+[10:43:26] Tick count: 135224710
+[10:43:27] Tick count: 135225712
+[10:43:28] Tick count: 135226712
+[10:43:29] Tick count: 135227708
+[10:43:30] Tick count: 135228709
+[10:43:31] Tick count: 135229712
+[10:43:32] Tick count: 135230711
+[10:43:33] Tick count: 135231710
+[10:43:34] Tick count: 135232709
+[10:43:35] Tick count: 135233712
+[10:43:36] Tick count: 135234708
+[10:43:37] Tick count: 135235712
+[10:43:38] Tick count: 135236710
+[10:43:39] Tick count: 135237712
+[10:43:40] Tick count: 135238711
+[10:43:41] Tick count: 135239711
+[10:43:42] Tick count: 135240707
+[10:43:43] Tick count: 135241712
+[10:43:44] Tick count: 135242708
+[10:43:45] Tick count: 135243708
+[10:43:46] Tick count: 135244713
+[10:43:47] Tick count: 135245707
+[10:43:48] Tick count: 135246709
+[10:43:49] Tick count: 135247710
+[10:43:50] Tick count: 135248711
+[10:43:51] Tick count: 135249710
+[10:43:52] Tick count: 135250709
+[10:43:53] Tick count: 135251711
+[10:43:54] Tick count: 135252707
+[10:43:55] Tick count: 135253707
+[10:43:56] Tick count: 135254707
+[10:43:57] Tick count: 135255712
+[10:43:58] Tick count: 135256712
+[10:43:59] Tick count: 135257709
+[10:44:00] Tick count: 135258710
+[10:44:01] Tick count: 135259707
+[10:44:02] Tick count: 135260708
+[10:44:03] Tick count: 135261707
+[10:44:04] Tick count: 135262711
+[10:44:05] Tick count: 135263708
+[10:44:06] Tick count: 135264710
+[10:44:07] Tick count: 135265710
+[10:44:08] Tick count: 135266711
+[10:44:09] Tick count: 135267711
+[10:44:10] Tick count: 135268709
+[10:44:11] Tick count: 135269708
+[10:44:12] Tick count: 135270710
+[10:44:13] Tick count: 135271711
+[10:44:14] Tick count: 135272710
+[10:44:15] Tick count: 135273710
+[10:44:16] Tick count: 135274708
+[10:44:17] Tick count: 135275711
+[10:44:18] Tick count: 135276711
+[10:44:19] Tick count: 135277711
+[10:44:20] Tick count: 135278709
+[10:44:21] Tick count: 135279708
+[10:44:22] Tick count: 135280709
+[10:44:23] Tick count: 135281710
+[10:44:24] Tick count: 135282711
+[10:44:25] Tick count: 135283707
+[10:44:26] Tick count: 135284708
+[10:44:27] Tick count: 135285710
+[10:44:28] Tick count: 135286708
+[10:44:29] Tick count: 135287710
+[10:44:30] Tick count: 135288708
+[10:44:31] Tick count: 135289712
+[10:44:32] Tick count: 135290710
+[10:44:33] Tick count: 135291708
+[10:44:34] Tick count: 135292707
+[10:44:35] Tick count: 135293707
+[10:44:36] Tick count: 135294708
+[10:44:37] Tick count: 135295712
+[10:44:38] Tick count: 135296708
+[10:44:39] Tick count: 135297708
+[10:44:40] Tick count: 135298707
+[10:44:41] Tick count: 135299708
+[10:44:42] Tick count: 135300708
+[10:44:43] Tick count: 135301708
+[10:44:44] Tick count: 135302711
+[10:44:45] Tick count: 135303712
+[10:44:46] Tick count: 135304708
+[10:44:47] Tick count: 135305711
+[10:44:48] Tick count: 135306707
+[10:44:49] Tick count: 135307712
+[10:44:50] Tick count: 135308709
+[10:44:51] Tick count: 135309707
+[10:44:52] Tick count: 135310708
+[10:44:53] Tick count: 135311707
+[10:44:54] Tick count: 135312709
+[10:44:55] Tick count: 135313711
+[10:44:56] Tick count: 135314710
+[10:44:57] Tick count: 135315708
+[10:44:58] Tick count: 135316707
+[10:44:59] Tick count: 135317708
+[10:45:00] Tick count: 135318709
+[10:45:01] Tick count: 135319710
+[10:45:02] Tick count: 135320711
+[10:45:03] Tick count: 135321711
+[10:45:04] Tick count: 135322707
+[10:45:05] Tick count: 135323710
+[10:45:06] Tick count: 135324710
+[10:45:07] Tick count: 135325711
+[10:45:08] Tick count: 135326707
+[10:45:09] Tick count: 135327707
+[10:45:10] Tick count: 135328711
+[10:45:11] Tick count: 135329708
+[10:45:12] Tick count: 135330712
+[10:45:13] Tick count: 135331712
+[10:45:14] Tick count: 135332709
+[10:45:15] Tick count: 135333711
+[10:45:16] Tick count: 135334710
+[10:45:17] Tick count: 135335711
+[10:45:18] Tick count: 135336708
+[10:45:19] Tick count: 135337710
+[10:45:20] Tick count: 135338712
+[10:45:21] Tick count: 135339710
+[10:45:22] Tick count: 135340709
+[10:45:23] Tick count: 135341707
+[10:45:24] Tick count: 135342708
+[10:45:25] Tick count: 135343707
+[10:45:26] Tick count: 135344709
+[10:45:27] Tick count: 135345709
+[10:45:28] Tick count: 135346711
+[10:45:29] Tick count: 135347709
+[10:45:30] Tick count: 135348707
+[10:45:31] Tick count: 135349710
+[10:45:32] Tick count: 135350712
+[10:45:33] Tick count: 135351712
+[10:45:34] Tick count: 135352708
+[10:45:35] Tick count: 135353710
+[10:45:36] Tick count: 135354708
+[10:45:37] Tick count: 135355710
+[10:45:38] Tick count: 135356711
+[10:45:39] Tick count: 135357709
+[10:45:40] Tick count: 135358711
+[10:45:41] Tick count: 135359712
+[10:45:42] Tick count: 135360712
+[10:45:43] Tick count: 135361712
+[10:45:44] Tick count: 135362708
+[10:45:45] Tick count: 135363711
+[10:45:46] Tick count: 135364712
+[10:45:47] Tick count: 135365707
+[10:45:48] Tick count: 135366712
+[10:45:49] Tick count: 135367712
+[10:45:50] Tick count: 135368712
+[10:45:51] Tick count: 135369708
+[10:45:52] Tick count: 135370707
+[10:45:53] Tick count: 135371711
+[10:45:54] Tick count: 135372711
+[10:45:55] Tick count: 135373709
+[10:45:56] Tick count: 135374709
+[10:45:57] Tick count: 135375710
+[10:45:58] Tick count: 135376709
+[10:45:59] Tick count: 135377710
+[10:46:00] Tick count: 135378708
+[10:46:01] Tick count: 135379712
+[10:46:02] Tick count: 135380707
+[10:46:03] Tick count: 135381710
+[10:46:04] Tick count: 135382712
+[10:46:05] Tick count: 135383709
+[10:46:06] Tick count: 135384713
+[10:46:07] Tick count: 135385711
+[10:46:08] Tick count: 135386708
+[10:46:09] Tick count: 135387712
+[10:46:10] Tick count: 135388708
+[10:46:11] Tick count: 135389708
+[10:46:12] Tick count: 135390709
+[10:46:13] Tick count: 135391709
+[10:46:14] Tick count: 135392708
+[10:46:15] Tick count: 135393710
+[10:46:16] Tick count: 135394709
+[10:46:17] Tick count: 135395707
+[10:46:18] Tick count: 135396708
+[10:46:19] Tick count: 135397711
+[10:46:20] Tick count: 135398712
+[10:46:21] Tick count: 135399709
+[10:46:22] Tick count: 135400707
+[10:46:23] Tick count: 135401707
+[10:46:24] Tick count: 135402708
+[10:46:25] Tick count: 135403712
+[10:46:26] Tick count: 135404712
+[10:46:27] Tick count: 135405708
+[10:46:28] Tick count: 135406712
+[10:46:29] Tick count: 135407711
+[10:46:30] Tick count: 135408708
+[10:46:31] Tick count: 135409711
+[10:46:32] Tick count: 135410710
+[10:46:33] Tick count: 135411712
+[10:46:34] Tick count: 135412709
+[10:46:35] Tick count: 135413710
+[10:46:36] Tick count: 135414707
+[10:46:37] Tick count: 135415708
+[10:46:38] Tick count: 135416711
+[10:46:39] Tick count: 135417708
+[10:46:40] Tick count: 135418709
+[10:46:41] Tick count: 135419709
+[10:46:42] Tick count: 135420710
+[10:46:43] Tick count: 135421709
+[10:46:44] Tick count: 135422707
+[10:46:45] Tick count: 135423710
+[10:46:46] Tick count: 135424711
+[10:46:47] Tick count: 135425709
+[10:46:48] Tick count: 135426711
+[10:46:49] Tick count: 135427710
+[10:46:50] Tick count: 135428711
+[10:46:51] Tick count: 135429710
+[10:46:52] Tick count: 135430710
+[10:46:53] Tick count: 135431712
+[10:46:54] Tick count: 135432708
+[10:46:55] Tick count: 135433711
+[10:46:56] Tick count: 135434708
+[10:46:57] Tick count: 135435710
+[10:46:58] Tick count: 135436708
+[10:46:59] Tick count: 135437707
+[10:47:00] Tick count: 135438711
+[10:47:01] Tick count: 135439707
+[10:47:02] Tick count: 135440708
+[10:47:03] Tick count: 135441711
+[10:47:04] Tick count: 135442711
+[10:47:05] Tick count: 135443710
+[10:47:06] Tick count: 135444709
+[10:47:07] Tick count: 135445709
+[10:47:08] Tick count: 135446710
+[10:47:09] Tick count: 135447707
+[10:47:10] Tick count: 135448710
+[10:47:11] Tick count: 135449709
+[10:47:12] Tick count: 135450708
+[10:47:13] Tick count: 135451711
+[10:47:14] Tick count: 135452712
+[10:47:15] Tick count: 135453710
+[10:47:16] Tick count: 135454711
+[10:47:17] Tick count: 135455707
+[10:47:18] Tick count: 135456709
+[10:47:19] Tick count: 135457708
+[10:47:20] Tick count: 135458712
+[10:47:21] Tick count: 135459709
+[10:47:22] Tick count: 135460710
+[10:47:23] Tick count: 135461708
+[10:47:24] Tick count: 135462709
+[10:47:25] Tick count: 135463710
+[10:47:26] Tick count: 135464711
+[10:47:27] Tick count: 135465712
+[10:47:28] Tick count: 135466707
+[10:47:29] Tick count: 135467707
+[10:47:30] Tick count: 135468707
+[10:47:31] Tick count: 135469707
+[10:47:32] Tick count: 135470708
+[10:47:33] Tick count: 135471708
+[10:47:34] Tick count: 135472712
+[10:47:35] Tick count: 135473707
+[10:47:36] Tick count: 135474707
+[10:47:37] Tick count: 135475709
+[10:47:38] Tick count: 135476711
+[10:47:39] Tick count: 135477712
+[10:47:40] Tick count: 135478708
+[10:47:41] Tick count: 135479707
+[10:47:42] Tick count: 135480710
+[10:47:43] Tick count: 135481707
+[10:47:44] Tick count: 135482709
+[10:47:45] Tick count: 135483707
+[10:47:46] Tick count: 135484709
+[10:47:47] Tick count: 135485711
+[10:47:48] Tick count: 135486709
+[10:47:49] Tick count: 135487707
+[10:47:50] Tick count: 135488709
+[10:47:51] Tick count: 135489712
+[10:47:52] Tick count: 135490710
+[10:47:53] Tick count: 135491712
+[10:47:54] Tick count: 135492707
+[10:47:55] Tick count: 135493708
+[10:47:56] Tick count: 135494707
+[10:47:57] Tick count: 135495707
+[10:47:58] Tick count: 135496709
+[10:47:59] Tick count: 135497711
+[10:48:00] Tick count: 135498708
+[10:48:01] Tick count: 135499711
+[10:48:02] Tick count: 135500712
+[10:48:03] Tick count: 135501712
+[10:48:04] Tick count: 135502707
+[10:48:05] Tick count: 135503710
+[10:48:06] Tick count: 135504711
+[10:48:07] Tick count: 135505707
+[10:48:08] Tick count: 135506711
+[10:48:09] Tick count: 135507711
+[10:48:10] Tick count: 135508708
+[10:48:11] Tick count: 135509711
+[10:48:12] Tick count: 135510707
+[10:48:13] Tick count: 135511707
+[10:48:14] Tick count: 135512709
+[10:48:15] Tick count: 135513712
+[10:48:16] Tick count: 135514709
+[10:48:17] Tick count: 135515708
+[10:48:18] Tick count: 135516710
+[10:48:19] Tick count: 135517708
+[10:48:20] Tick count: 135518710
+[10:48:21] Tick count: 135519711
+[10:48:22] Tick count: 135520711
+[10:48:23] Tick count: 135521710
+[10:48:24] Tick count: 135522710
+[10:48:25] Tick count: 135523709
+[10:48:26] Tick count: 135524711
+[10:48:27] Tick count: 135525712
+[10:48:28] Tick count: 135526707
+[10:48:29] Tick count: 135527712
+[10:48:30] Tick count: 135528707
+[10:48:31] Tick count: 135529711
+[10:48:32] Tick count: 135530709
+[10:48:33] Tick count: 135531707
+[10:48:34] Tick count: 135532710
+[10:48:35] Tick count: 135533708
+[10:48:36] Tick count: 135534709
+[10:48:37] Tick count: 135535707
+[10:48:38] Tick count: 135536707
+[10:48:39] Tick count: 135537710
+[10:48:40] Tick count: 135538711
+[10:48:41] Tick count: 135539711
+[10:48:42] Tick count: 135540710
+[10:48:43] Tick count: 135541707
+[10:48:44] Tick count: 135542709
+[10:48:45] Tick count: 135543708
+[10:48:46] Tick count: 135544707
+[10:48:47] Tick count: 135545711
+[10:48:48] Tick count: 135546708
+[10:48:49] Tick count: 135547709
+[10:48:50] Tick count: 135548708
+[10:48:51] Tick count: 135549713
+[10:48:52] Tick count: 135550707
+[10:48:53] Tick count: 135551707
+[10:48:54] Tick count: 135552712
+[10:48:55] Tick count: 135553708
+[10:48:56] Tick count: 135554711
+[10:48:57] Tick count: 135555707
+[10:48:58] Tick count: 135556707
+[10:48:59] Tick count: 135557710
+[10:49:00] Tick count: 135558712
+[10:49:01] Tick count: 135559709
+[10:49:02] Tick count: 135560711
+[10:49:03] Tick count: 135561713
+[10:49:04] Tick count: 135562714
+[10:49:05] Tick count: 135563709
+[10:49:06] Tick count: 135564710
+[10:49:07] Tick count: 135565708
+[10:49:08] Tick count: 135566709
+[10:49:09] Tick count: 135567712
+[10:49:10] Tick count: 135568709
+[10:49:11] Tick count: 135569709
+[10:49:12] Tick count: 135570710
+[10:49:13] Tick count: 135571711
+[10:49:14] Tick count: 135572708
+[10:49:15] Tick count: 135573708
+[10:49:16] Tick count: 135574710
+[10:49:17] Tick count: 135575709
+[10:49:18] Tick count: 135576711
+[10:49:19] Tick count: 135577712
+[10:49:20] Tick count: 135578709
+[10:49:21] Tick count: 135579708
+[10:49:22] Tick count: 135580711
+[10:49:23] Tick count: 135581711
+[10:49:24] Tick count: 135582713
+[10:49:25] Tick count: 135583710
+[10:49:26] Tick count: 135584708
+[10:49:27] Tick count: 135585708
+[10:49:28] Tick count: 135586712
+[10:49:29] Tick count: 135587709
+[10:49:30] Tick count: 135588712
+[10:49:31] Tick count: 135589711
+[10:49:32] Tick count: 135590712
+[10:49:33] Tick count: 135591711
+[10:49:34] Tick count: 135592712
+[10:49:35] Tick count: 135593711
+[10:49:36] Tick count: 135594712
+[10:49:37] Tick count: 135595713
+[10:49:38] Tick count: 135596713
+[10:49:39] Tick count: 135597710
+[10:49:40] Tick count: 135598709
+[10:49:41] Tick count: 135599709
+[10:49:42] Tick count: 135600712
+[10:49:43] Tick count: 135601710
+[10:49:44] Tick count: 135602711
+[10:49:45] Tick count: 135603709
+[10:49:46] Tick count: 135604712
+[10:49:47] Tick count: 135605713
+[10:49:48] Tick count: 135606711
+[10:49:49] Tick count: 135607709
+[10:49:50] Tick count: 135608709
+[10:49:51] Tick count: 135609713
+[10:49:52] Tick count: 135610711
+[10:49:53] Tick count: 135611712
+[10:49:54] Tick count: 135612715
+[10:49:55] Tick count: 135613712
+[10:49:56] Tick count: 135614709
+[10:49:57] Tick count: 135615713
+[10:49:58] Tick count: 135616713
+[10:49:59] Tick count: 135617710
+[10:50:00] Tick count: 135618714
+[10:50:01] Tick count: 135619710
+[10:50:02] Tick count: 135620712
+[10:50:03] Tick count: 135621712
+[10:50:04] Tick count: 135622712
+[10:50:05] Tick count: 135623713
+[10:50:06] Tick count: 135624713
+[10:50:07] Tick count: 135625713
+[10:50:08] Tick count: 135626712
+[10:50:09] Tick count: 135627711
+[10:50:10] Tick count: 135628710
+[10:50:11] Tick count: 135629714
+[10:50:12] Tick count: 135630710
+[10:50:13] Tick count: 135631711
+[10:50:14] Tick count: 135632709
+[10:50:15] Tick count: 135633709
+[10:50:16] Tick count: 135634715
+[10:50:17] Tick count: 135635714
+[10:50:18] Tick count: 135636711
+[10:50:19] Tick count: 135637712
+[10:50:20] Tick count: 135638713
+[10:50:21] Tick count: 135639714
+[10:50:22] Tick count: 135640714
+[10:50:23] Tick count: 135641711
+[10:50:24] Tick count: 135642711
+[10:50:25] Tick count: 135643713
+[10:50:26] Tick count: 135644713
+[10:50:27] Tick count: 135645709
+[10:50:28] Tick count: 135646709
+[10:50:29] Tick count: 135647712
+[10:50:30] Tick count: 135648712
+[10:50:31] Tick count: 135649711
+[10:50:32] Tick count: 135650714
+[10:50:33] Tick count: 135651714
+[10:50:34] Tick count: 135652709
+[10:50:35] Tick count: 135653710
+[10:50:36] Tick count: 135654710
+[10:50:37] Tick count: 135655710
+[10:50:38] Tick count: 135656712
+[10:50:39] Tick count: 135657713
+[10:50:40] Tick count: 135658714
+[10:50:41] Tick count: 135659709
+[10:50:42] Tick count: 135660713
+[10:50:43] Tick count: 135661711
+[10:50:44] Tick count: 135662711
+[10:50:45] Tick count: 135663713
+[10:50:46] Tick count: 135664712
+[10:50:47] Tick count: 135665712
+[10:50:48] Tick count: 135666711
+[10:50:49] Tick count: 135667713
+[10:50:50] Tick count: 135668713
+[10:50:51] Tick count: 135669713
+[10:50:52] Tick count: 135670712
+[10:50:53] Tick count: 135671713
+[10:50:54] Tick count: 135672710
+[10:50:55] Tick count: 135673710
+[10:50:56] Tick count: 135674712
+[10:50:57] Tick count: 135675712
+[10:50:58] Tick count: 135676712
+[10:50:59] Tick count: 135677714
+[10:51:00] Tick count: 135678710
+[10:51:01] Tick count: 135679711
+[10:51:02] Tick count: 135680711
+[10:51:03] Tick count: 135681712
+[10:51:04] Tick count: 135682714
+[10:51:05] Tick count: 135683714
+[10:51:06] Tick count: 135684713
+[10:51:07] Tick count: 135685710
+[10:51:08] Tick count: 135686712
+[10:51:09] Tick count: 135687709
+[10:51:10] Tick count: 135688709
+[10:51:11] Tick count: 135689714
+[10:51:12] Tick count: 135690712
+[10:51:13] Tick count: 135691711
+[10:51:14] Tick count: 135692714
+[10:51:15] Tick count: 135693713
+[10:51:16] Tick count: 135694709
+[10:51:17] Tick count: 135695714
+[10:51:18] Tick count: 135696709
+[10:51:19] Tick count: 135697712
+[10:51:20] Tick count: 135698714
+[10:51:21] Tick count: 135699712
+[10:51:22] Tick count: 135700710
+[10:51:23] Tick count: 135701710
+[10:51:24] Tick count: 135702714
+[10:51:25] Tick count: 135703713
+[10:51:26] Tick count: 135704709
+[10:51:27] Tick count: 135705711
+[10:51:28] Tick count: 135706711
+[10:51:29] Tick count: 135707714
+[10:51:30] Tick count: 135708709
+[10:51:31] Tick count: 135709714
+[10:51:32] Tick count: 135710713
+[10:51:33] Tick count: 135711714
+[10:51:34] Tick count: 135712710
+[10:51:35] Tick count: 135713714
+[10:51:36] Tick count: 135714709
+[10:51:37] Tick count: 135715709
+[10:51:38] Tick count: 135716713
+[10:51:39] Tick count: 135717709
+[10:51:40] Tick count: 135718714
+[10:51:41] Tick count: 135719710
+[10:51:42] Tick count: 135720711
+[10:51:43] Tick count: 135721711
+[10:51:44] Tick count: 135722714
+[10:51:45] Tick count: 135723712
+[10:51:46] Tick count: 135724710
+[10:51:47] Tick count: 135725709
+[10:51:48] Tick count: 135726710
+[10:51:49] Tick count: 135727712
+[10:51:50] Tick count: 135728711
+[10:51:51] Tick count: 135729711
+[10:51:52] Tick count: 135730714
+[10:51:53] Tick count: 135731713
+[10:51:54] Tick count: 135732713
+[10:51:55] Tick count: 135733709
+[10:51:56] Tick count: 135734713
+[10:51:57] Tick count: 135735714
+[10:51:58] Tick count: 135736711
+[10:51:59] Tick count: 135737709
+[10:52:00] Tick count: 135738711
+[10:52:01] Tick count: 135739711
+[10:52:02] Tick count: 135740713
+[10:52:03] Tick count: 135741713
+[10:52:04] Tick count: 135742712
+[10:52:05] Tick count: 135743711
+[10:52:06] Tick count: 135744710
+[10:52:07] Tick count: 135745714
+[10:52:08] Tick count: 135746710
+[10:52:09] Tick count: 135747709
+[10:52:10] Tick count: 135748711
+[10:52:11] Tick count: 135749710
+[10:52:12] Tick count: 135750714
+[10:52:13] Tick count: 135751712
+[10:52:14] Tick count: 135752713
+[10:52:15] Tick count: 135753709
+[10:52:16] Tick count: 135754713
+[10:52:17] Tick count: 135755713
+[10:52:18] Tick count: 135756710
+[10:52:19] Tick count: 135757715
+[10:52:20] Tick count: 135758710
+[10:52:21] Tick count: 135759712
+[10:52:22] Tick count: 135760711
+[10:52:23] Tick count: 135761709
+[10:52:24] Tick count: 135762710
+[10:52:25] Tick count: 135763713
+[10:52:26] Tick count: 135764711
+[10:52:27] Tick count: 135765709
+[10:52:28] Tick count: 135766714
+[10:52:29] Tick count: 135767713
+[10:52:30] Tick count: 135768710
+[10:52:31] Tick count: 135769709
+[10:52:32] Tick count: 135770713
+[10:52:33] Tick count: 135771714
+[10:52:34] Tick count: 135772713
+[10:52:35] Tick count: 135773714
+[10:52:36] Tick count: 135774709
+[10:52:37] Tick count: 135775712
+[10:52:38] Tick count: 135776713
+[10:52:39] Tick count: 135777713
+[10:52:40] Tick count: 135778712
+[10:52:41] Tick count: 135779713
+[10:52:42] Tick count: 135780709
+[10:52:43] Tick count: 135781710
+[10:52:44] Tick count: 135782713
+[10:52:45] Tick count: 135783711
+[10:52:46] Tick count: 135784710
+[10:52:47] Tick count: 135785711
+[10:52:48] Tick count: 135786711
+[10:52:49] Tick count: 135787714
+[10:52:50] Tick count: 135788710
+[10:52:51] Tick count: 135789712
+[10:52:52] Tick count: 135790712
+[10:52:53] Tick count: 135791711
+[10:52:54] Tick count: 135792710
+[10:52:55] Tick count: 135793711
+[10:52:56] Tick count: 135794711
+[10:52:57] Tick count: 135795712
+[10:52:58] Tick count: 135796712
+[10:52:59] Tick count: 135797710
+[10:53:00] Tick count: 135798712
+[10:53:01] Tick count: 135799710
+[10:53:02] Tick count: 135800712
+[10:53:03] Tick count: 135801710
+[10:53:04] Tick count: 135802714
+[10:53:05] Tick count: 135803709
+[10:53:06] Tick count: 135804709
+[10:53:07] Tick count: 135805710
+[10:53:08] Tick count: 135806709
+[10:53:09] Tick count: 135807709
+[10:53:10] Tick count: 135808712
+[10:53:11] Tick count: 135809709
+[10:53:12] Tick count: 135810711
+[10:53:13] Tick count: 135811710
+[10:53:14] Tick count: 135812713
+[10:53:15] Tick count: 135813710
+[10:53:16] Tick count: 135814711
+[10:53:17] Tick count: 135815714
+[10:53:18] Tick count: 135816711
+[10:53:19] Tick count: 135817711
+[10:53:20] Tick count: 135818711
+[10:53:21] Tick count: 135819718
+[10:53:22] Tick count: 135820712
+[10:53:23] Tick count: 135821711
+[10:53:24] Tick count: 135822710
+[10:53:25] Tick count: 135823709
+[10:53:26] Tick count: 135824714
+[10:53:27] Tick count: 135825710
+[10:53:28] Tick count: 135826709
+[10:53:29] Tick count: 135827712
+[10:53:30] Tick count: 135828711
+[10:53:31] Tick count: 135829714
+[10:53:32] Tick count: 135830712
+[10:53:33] Tick count: 135831710
+[10:53:34] Tick count: 135832709
+[10:53:35] Tick count: 135833711
+[10:53:36] Tick count: 135834713
+[10:53:37] Tick count: 135835713
+[10:53:38] Tick count: 135836712
+[10:53:39] Tick count: 135837714
+[10:53:40] Tick count: 135838711
+[10:53:41] Tick count: 135839716
+[10:53:42] Tick count: 135840712
+[10:53:43] Tick count: 135841712
+[10:53:44] Tick count: 135842713
+[10:53:45] Tick count: 135843713
+[10:53:46] Tick count: 135844710
+[10:53:47] Tick count: 135845711
+[10:53:48] Tick count: 135846712
+[10:53:49] Tick count: 135847710
+[10:53:50] Tick count: 135848709
+[10:53:51] Tick count: 135849713
+[10:53:52] Tick count: 135850713
+[10:53:53] Tick count: 135851711
+[10:53:54] Tick count: 135852713
+[10:53:55] Tick count: 135853714
+[10:53:56] Tick count: 135854714
+[10:53:57] Tick count: 135855710
+[10:53:58] Tick count: 135856714
+[10:53:59] Tick count: 135857709
+[10:54:00] Tick count: 135858711
+[10:54:01] Tick count: 135859709
+[10:54:02] Tick count: 135860713
+[10:54:03] Tick count: 135861713
+[10:54:04] Tick count: 135862712
+[10:54:05] Tick count: 135863714
+[10:54:06] Tick count: 135864710
+[10:54:07] Tick count: 135865712
+[10:54:08] Tick count: 135866709
+[10:54:09] Tick count: 135867715
+[10:54:10] Tick count: 135868712
+[10:54:11] Tick count: 135869709
+[10:54:12] Tick count: 135870712
+[10:54:13] Tick count: 135871712
+[10:54:14] Tick count: 135872714
+[10:54:15] Tick count: 135873710
+[10:54:16] Tick count: 135874712
+[10:54:17] Tick count: 135875711
+[10:54:18] Tick count: 135876709
+[10:54:19] Tick count: 135877709
+[10:54:20] Tick count: 135878714
+[10:54:21] Tick count: 135879710
+[10:54:22] Tick count: 135880710
+[10:54:23] Tick count: 135881713
+[10:54:24] Tick count: 135882711
+[10:54:25] Tick count: 135883714
+[10:54:26] Tick count: 135884715
+[10:54:27] Tick count: 135885714
+[10:54:28] Tick count: 135886711
+[10:54:29] Tick count: 135887715
+[10:54:30] Tick count: 135888712
+[10:54:31] Tick count: 135889711
+[10:54:32] Tick count: 135890714
+[10:54:33] Tick count: 135891711
+[10:54:34] Tick count: 135892714
+[10:54:35] Tick count: 135893711
+[10:54:36] Tick count: 135894715
+[10:54:37] Tick count: 135895712
+[10:54:38] Tick count: 135896712
+[10:54:39] Tick count: 135897710
+[10:54:40] Tick count: 135898713
+[10:54:41] Tick count: 135899715
+[10:54:42] Tick count: 135900715
+[10:54:43] Tick count: 135901710
+[10:54:44] Tick count: 135902712
+[10:54:45] Tick count: 135903710
+[10:54:46] Tick count: 135904711
+[10:54:47] Tick count: 135905711
+[10:54:48] Tick count: 135906713
+[10:54:49] Tick count: 135907711
+[10:54:50] Tick count: 135908710
+[10:54:51] Tick count: 135909713
+[10:54:52] Tick count: 135910713
+[10:54:53] Tick count: 135911714
+[10:54:54] Tick count: 135912715
+[10:54:55] Tick count: 135913711
+[10:54:56] Tick count: 135914715
+[10:54:57] Tick count: 135915710
+[10:54:58] Tick count: 135916715
+[10:54:59] Tick count: 135917714
+[10:55:00] Tick count: 135918714
+[10:55:01] Tick count: 135919711
+[10:55:02] Tick count: 135920711
+[10:55:03] Tick count: 135921712
+[10:55:04] Tick count: 135922711
+[10:55:05] Tick count: 135923713
+[10:55:06] Tick count: 135924710
+[10:55:07] Tick count: 135925712
+[10:55:08] Tick count: 135926715
+[10:55:09] Tick count: 135927714
+[10:55:10] Tick count: 135928711
+[10:55:11] Tick count: 135929710
+[10:55:12] Tick count: 135930715
+[10:55:13] Tick count: 135931713
+[10:55:14] Tick count: 135932710
+[10:55:15] Tick count: 135933712
+[10:55:16] Tick count: 135934714
+[10:55:17] Tick count: 135935712
+[10:55:18] Tick count: 135936712
+[10:55:19] Tick count: 135937715
+[10:55:20] Tick count: 135938710
+[10:55:21] Tick count: 135939712
+[10:55:22] Tick count: 135940714
+[10:55:23] Tick count: 135941711
+[10:55:24] Tick count: 135942712
+[10:55:25] Tick count: 135943712
+[10:55:26] Tick count: 135944710
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7, (C)2005-2015 SA-MP Team
+
+[10:55:37] filterscripts = ""  (string)
+[10:55:37] 
+[10:55:37] Server Plugins
+[10:55:37] --------------
+[10:55:37]  Loading plugin: gtaminigames
+[10:55:37]   Loaded.
+[10:55:37]  Loaded 1 plugins.
+
+[10:55:37] 
+[10:55:37] Filterscripts
+[10:55:37] ---------------
+[10:55:37]   Loaded 0 filterscripts.
+
+[10:55:37] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[10:55:37] 
+----------------------------------
+[10:55:37]   Bare Script
+
+[10:55:37] ----------------------------------
+
+[10:55:37] Number of vehicle models: 0
+[10:55:38] Tick count: 135956188
+[10:55:39] Tick count: 135957187
+[10:55:40] Tick count: 135958186
+[10:55:41] Tick count: 135959187
+[10:55:42] [connection] 127.0.0.1:63102 requests connection cookie.
+[10:55:42] Tick count: 135960190
+[10:55:43] Incoming connection: 127.0.0.1:63102 id: 0
+[10:55:43] Tick count: 135961187
+[10:55:43] [join] Fawkes has joined the server (0:127.0.0.1)
+[10:55:44] Tick count: 135962190
+[10:55:45] Tick count: 135963187
+[10:55:46] Tick count: 135964186
+[10:55:47] Tick count: 135965187
+[10:55:48] Tick count: 135966189
+[10:55:49] Tick count: 135967185
+[10:55:50] Tick count: 135968190
+[10:55:51] Tick count: 135969186
+[10:55:52] Tick count: 135970188
+[10:55:53] Tick count: 135971188
+[10:55:54] Tick count: 135972185
+[10:55:55] Tick count: 135973186
+[10:55:56] Tick count: 135974190
+[10:55:57] Tick count: 135975186
+[10:55:58] Tick count: 135976189
+[10:55:59] Tick count: 135977188
+[10:56:00] Tick count: 135978185
+[10:56:01] Tick count: 135979188
+[10:56:02] Tick count: 135980189
+[10:56:03] Tick count: 135981185
+[10:56:04] Tick count: 135982189
+[10:56:05] Tick count: 135983185
+[10:56:06] Tick count: 135984185
+[10:56:07] Tick count: 135985189
+[10:56:08] Tick count: 135986190
+[10:56:09] Tick count: 135987188
+[10:56:10] Tick count: 135988187
+[10:56:11] Tick count: 135989186
+[10:56:12] Tick count: 135990187
+[10:56:13] Tick count: 135991189
+[10:56:14] Tick count: 135992190
+[10:56:15] Tick count: 135993186
+[10:56:16] Tick count: 135994185
+[10:56:17] Tick count: 135995187
+[10:56:18] Tick count: 135996188
+[10:56:19] Tick count: 135997188
+[10:56:20] Tick count: 135998185
+[10:56:21] Tick count: 135999185
+[10:56:22] Tick count: 136000187
+[10:56:23] Tick count: 136001185
+[10:56:24] Tick count: 136002188
+[10:56:25] Tick count: 136003185
+[10:56:26] Tick count: 136004186
+[10:56:27] Tick count: 136005187
+[10:56:28] Tick count: 136006190
+[10:56:29] Tick count: 136007187
+[10:56:30] Tick count: 136008186
+[10:56:31] Tick count: 136009185
+[10:56:32] Tick count: 136010185
+[10:56:33] Tick count: 136011187
+[10:56:34] Tick count: 136012188
+[10:56:35] Tick count: 136013189
+[10:56:36] Tick count: 136014188
+[10:56:37] Tick count: 136015189
+[10:56:38] Tick count: 136016187
+[10:56:39] Tick count: 136017187
+[10:56:40] Tick count: 136018185
+[10:56:41] Tick count: 136019190
+[10:56:42] Tick count: 136020186
+[10:56:43] Tick count: 136021188
+[10:56:44] Tick count: 136022188
+[10:56:45] Tick count: 136023190
+[10:56:46] Tick count: 136024187
+[10:56:47] Tick count: 136025188
+[10:56:48] Tick count: 136026188
+[10:56:49] Tick count: 136027187
+[10:56:50] Tick count: 136028189
+[10:56:51] Tick count: 136029190
+[10:56:52] Tick count: 136030189
+[10:56:53] Tick count: 136031190
+[10:56:54] Tick count: 136032186
+[10:56:55] Tick count: 136033189
+[10:56:56] Tick count: 136034188
+[10:56:57] Tick count: 136035186
+[10:56:58] Tick count: 136036187
+[10:56:59] Tick count: 136037185
+[10:57:00] Tick count: 136038187
+[10:57:01] Tick count: 136039186
+[10:57:02] Tick count: 136040189
+[10:57:03] Tick count: 136041187
+[10:57:04] Tick count: 136042188
+[10:57:05] Tick count: 136043188
+[10:57:06] Tick count: 136044185
+[10:57:07] Tick count: 136045188
+[10:57:08] Tick count: 136046187
+[10:57:09] Tick count: 136047186
+[10:57:10] Tick count: 136048185
+[10:57:11] Tick count: 136049188
+[10:57:12] Tick count: 136050188
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7, (C)2005-2015 SA-MP Team
+
+[10:57:22] filterscripts = ""  (string)
+[10:57:22] 
+[10:57:22] Server Plugins
+[10:57:22] --------------
+[10:57:22]  Loading plugin: gtaminigames
+[10:57:22]   Loaded.
+[10:57:22]  Loaded 1 plugins.
+
+[10:57:22] 
+[10:57:22] Filterscripts
+[10:57:22] ---------------
+[10:57:22]   Loaded 0 filterscripts.
+
+[10:57:22] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[10:57:22] 
+----------------------------------
+[10:57:22]   Bare Script
+
+[10:57:22] ----------------------------------
+
+[10:57:22] Number of vehicle models: 0
+[10:57:23] Tick count: 136061637
+[10:57:24] Tick count: 136062639
+[10:57:25] Tick count: 136063639
+[10:57:26] [connection] 127.0.0.1:65142 requests connection cookie.
+[10:57:26] Tick count: 136064639
+[10:57:27] Incoming connection: 127.0.0.1:65142 id: 0
+[10:57:27] Tick count: 136065635
+[10:57:28] [join] Fawkes has joined the server (0:127.0.0.1)
+[10:57:28] Tick count: 136066636
+[10:57:29] Tick count: 136067639
+[10:57:30] Tick count: 136068637
+[10:57:31] Tick count: 136069638
+[10:57:32] Tick count: 136070635
+[10:57:33] Tick count: 136071636
+[10:57:34] Tick count: 136072636
+[10:57:35] Tick count: 136073640
+[10:57:36] Tick count: 136074637
+[10:57:37] Tick count: 136075635
+[10:57:38] Tick count: 136076639
+[10:57:39] Tick count: 136077640
+[10:57:40] Tick count: 136078640
+[10:57:41] Tick count: 136079637
+[10:57:42] Tick count: 136080638
+[10:57:43] Tick count: 136081639
+[10:57:44] Tick count: 136082638
+[10:57:45] Tick count: 136083639
+[10:57:46] Tick count: 136084639
+[10:57:47] Tick count: 136085640
+[10:57:48] Tick count: 136086640
+[10:57:49] Tick count: 136087639
+[10:57:50] Tick count: 136088637
+[10:57:51] Tick count: 136089640
+[10:57:52] Tick count: 136090637
+[10:57:53] Tick count: 136091639
+[10:57:54] Tick count: 136092635
+[10:57:55] Tick count: 136093640
+[10:57:56] Tick count: 136094640
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7, (C)2005-2015 SA-MP Team
+
+[10:58:07] filterscripts = ""  (string)
+[10:58:07] 
+[10:58:07] Server Plugins
+[10:58:07] --------------
+[10:58:07]  Loading plugin: gtaminigames
+[10:58:07]   Loaded.
+[10:58:07]  Loaded 1 plugins.
+
+[10:58:07] 
+[10:58:07] Filterscripts
+[10:58:07] ---------------
+[10:58:07]   Loaded 0 filterscripts.
+
+[10:58:07] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[10:58:07] 
+----------------------------------
+[10:58:07]   Bare Script
+
+[10:58:07] ----------------------------------
+
+[10:58:07] Number of vehicle models: 0
+[10:58:08] Tick count: 136106275
+[10:58:09] Tick count: 136107273
+[10:58:10] Tick count: 136108275
+[10:58:11] [connection] 127.0.0.1:65143 requests connection cookie.
+[10:58:11] Tick count: 136109277
+[10:58:12] Incoming connection: 127.0.0.1:65143 id: 0
+[10:58:12] Tick count: 136110273
+[10:58:12] [join] Fawkes has joined the server (0:127.0.0.1)
+[10:58:13] Tick count: 136111274
+[10:58:14] Tick count: 136112273
+[10:58:15] Tick count: 136113276
+[10:58:16] Tick count: 136114273
+[10:58:17] Tick count: 136115277
+[10:58:18] Tick count: 136116273
+[10:58:19] Tick count: 136117273
+[10:58:20] Tick count: 136118276
+[10:58:21] Tick count: 136119273
+[10:58:22] Tick count: 136120276
+[10:58:23] Tick count: 136121274
+[10:58:24] Tick count: 136122277
+[10:58:25] Tick count: 136123275
+[10:58:26] Tick count: 136124278
+[10:58:27] Tick count: 136125278
+[10:58:28] Tick count: 136126277
+[10:58:29] Tick count: 136127275
+[10:58:30] Tick count: 136128273
+[10:58:31] Tick count: 136129274
+[10:58:32] Tick count: 136130275
+[10:58:33] Tick count: 136131273
+[10:58:34] Tick count: 136132277
+[10:58:35] Tick count: 136133278
+[10:58:36] Tick count: 136134274
+[10:58:37] Tick count: 136135273
+[10:58:38] Tick count: 136136278
+[10:58:39] Tick count: 136137278
+[10:58:40] Tick count: 136138276
+[10:58:41] Tick count: 136139274
+[10:58:42] Tick count: 136140278
+[10:58:43] Tick count: 136141274
+[10:58:44] Tick count: 136142277
+[10:58:45] Tick count: 136143273
+[10:58:46] Tick count: 136144275
+[10:58:47] Tick count: 136145274
+[10:58:48] Tick count: 136146275
+[10:58:49] Tick count: 136147276
+[10:58:50] Tick count: 136148276
+[10:58:51] Tick count: 136149275
+[10:58:52] Tick count: 136150276
+[10:58:53] Tick count: 136151274
+[10:58:54] Tick count: 136152275
+[10:58:55] Tick count: 136153276
+[10:58:56] Tick count: 136154276
+[10:58:57] Tick count: 136155276
+[10:58:58] Tick count: 136156277
+[10:58:59] Tick count: 136157278
+[10:59:00] Tick count: 136158276
+[10:59:01] Tick count: 136159274
+[10:59:02] Tick count: 136160275
+[10:59:03] Tick count: 136161273
+[10:59:04] Tick count: 136162276
+[10:59:05] Tick count: 136163273
+[10:59:06] Tick count: 136164276
+[10:59:07] Tick count: 136165273
+[10:59:08] Tick count: 136166274
+[10:59:09] Tick count: 136167277
+[10:59:10] Tick count: 136168278
+[10:59:11] Tick count: 136169277
+[10:59:12] Tick count: 136170277
+[10:59:13] Tick count: 136171275
+[10:59:14] Tick count: 136172277
+[10:59:15] Tick count: 136173273
+[10:59:16] Tick count: 136174276
+[10:59:17] Tick count: 136175276
+[10:59:18] Tick count: 136176277
+[10:59:19] Tick count: 136177276
+[10:59:20] Tick count: 136178278
+[10:59:21] Tick count: 136179275
+[10:59:22] Tick count: 136180277
+[10:59:23] Tick count: 136181275
+[10:59:24] Tick count: 136182277
+[10:59:25] Tick count: 136183276
+[10:59:26] Tick count: 136184274
+[10:59:27] Tick count: 136185277
+[10:59:28] Tick count: 136186277
+[10:59:29] Tick count: 136187278
+[10:59:30] Tick count: 136188274
+[10:59:31] Tick count: 136189274
+[10:59:32] Tick count: 136190277
+[10:59:33] Tick count: 136191278
+[10:59:34] Tick count: 136192277
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7, (C)2005-2015 SA-MP Team
+
+[10:59:46] filterscripts = ""  (string)
+[10:59:46] 
+[10:59:46] Server Plugins
+[10:59:46] --------------
+[10:59:46]  Loading plugin: gtaminigames
+[10:59:46]   Loaded.
+[10:59:46]  Loaded 1 plugins.
+
+[10:59:46] 
+[10:59:46] Filterscripts
+[10:59:46] ---------------
+[10:59:46]   Loaded 0 filterscripts.
+
+[10:59:46] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[10:59:46] 
+----------------------------------
+[10:59:46]   Bare Script
+
+[10:59:46] ----------------------------------
+
+[10:59:46] Number of vehicle models: 0
+[10:59:47] Tick count: 136205218
+[10:59:48] Tick count: 136206221
+[10:59:48] [connection] 127.0.0.1:59912 requests connection cookie.
+[10:59:49] Tick count: 136207217
+[10:59:49] Incoming connection: 127.0.0.1:59912 id: 0
+[10:59:50] [join] Fawkes has joined the server (0:127.0.0.1)
+[10:59:50] Tick count: 136208222
+[10:59:51] Tick count: 136209222
+[10:59:52] Tick count: 136210222
+[10:59:53] Tick count: 136211217
+[10:59:54] Tick count: 136212222
+[10:59:55] Tick count: 136213218
+[10:59:56] Tick count: 136214217
+[10:59:57] Tick count: 136215218
+[10:59:58] Tick count: 136216217
+[10:59:59] Tick count: 136217218
+[11:00:00] Tick count: 136218219
+[11:00:01] Tick count: 136219227
+[11:00:02] Tick count: 136220218
+[11:00:03] Tick count: 136221217
+[11:00:04] Tick count: 136222218
+[11:00:05] Tick count: 136223218
+[11:00:06] Tick count: 136224222
+[11:00:07] Tick count: 136225218
+[11:00:08] Tick count: 136226222
+[11:00:09] Tick count: 136227218
+[11:00:10] Tick count: 136228222
+[11:00:11] Tick count: 136229220
+[11:00:12] Tick count: 136230217
+[11:00:13] Tick count: 136231217
+[11:00:14] Tick count: 136232220
+[11:00:15] Tick count: 136233220
+[11:00:16] Tick count: 136234222
+[11:00:17] Tick count: 136235221
+[11:00:18] Tick count: 136236221
+[11:00:19] Tick count: 136237217
+[11:00:20] Tick count: 136238219
+[11:00:21] Tick count: 136239220
+[11:00:22] Tick count: 136240217
+[11:00:23] Tick count: 136241219
+[11:00:24] Tick count: 136242222
+[11:00:25] Tick count: 136243222
+[11:00:26] Tick count: 136244219
+[11:00:27] Tick count: 136245217
+[11:00:28] Tick count: 136246218
+[11:00:29] Tick count: 136247217
+[11:00:30] Tick count: 136248218
+[11:00:31] Tick count: 136249218
+[11:00:32] Tick count: 136250218
+[11:00:33] Tick count: 136251219
+[11:00:34] Tick count: 136252220
+[11:00:35] Tick count: 136253221
+[11:00:36] Tick count: 136254222
+[11:00:37] Tick count: 136255221
+[11:00:38] Tick count: 136256218
+[11:00:39] Tick count: 136257220
+[11:00:40] Tick count: 136258218
+[11:00:41] Tick count: 136259222
+[11:00:42] Tick count: 136260220
+[11:00:43] Tick count: 136261219
+[11:00:44] Tick count: 136262221
+[11:00:45] Tick count: 136263220
+[11:00:46] Tick count: 136264221
+[11:00:47] Tick count: 136265220
+[11:00:48] Tick count: 136266222
+[11:00:49] Tick count: 136267221
+[11:00:50] Tick count: 136268220
+[11:00:51] Tick count: 136269221
+[11:00:52] Tick count: 136270221
+[11:00:53] Tick count: 136271221
+[11:00:54] Tick count: 136272221
+[11:00:55] Tick count: 136273217
+[11:00:56] Tick count: 136274219
+[11:00:57] Tick count: 136275221
+[11:00:58] Tick count: 136276219
+[11:00:59] Tick count: 136277220
+[11:01:00] Tick count: 136278218
+[11:01:01] Tick count: 136279217
+[11:01:02] Tick count: 136280220
+[11:01:03] Tick count: 136281219
+[11:01:04] Tick count: 136282221
+[11:01:05] Tick count: 136283218
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7, (C)2005-2015 SA-MP Team
+
+[11:01:33] filterscripts = ""  (string)
+[11:01:33] 
+[11:01:33] Server Plugins
+[11:01:33] --------------
+[11:01:33]  Loading plugin: gtaminigames
+[11:01:33]   Loaded.
+[11:01:33]  Loaded 1 plugins.
+
+[11:01:33] 
+[11:01:33] Filterscripts
+[11:01:33] ---------------
+[11:01:33]   Loaded 0 filterscripts.
+
+[11:01:33] Number of vehicle models: 0
+[11:01:34] Tick count: 136312491
+[11:01:35] [connection] 127.0.0.1:49529 requests connection cookie.
+[11:01:35] Tick count: 136313491
+[11:01:36] Incoming connection: 127.0.0.1:49529 id: 0
+[11:01:36] [join] Fawkes has joined the server (0:127.0.0.1)
+[11:01:36] Tick count: 136314492
+[11:01:37] Tick count: 136315492
+[11:01:38] Tick count: 136316493
+[11:01:39] Tick count: 136317495
+[11:01:40] Tick count: 136318494
+[11:01:41] Tick count: 136319495
+[11:01:42] Tick count: 136320490
+[11:01:43] Tick count: 136321495
+[11:01:44] Tick count: 136322492
+[11:01:45] Tick count: 136323491
+[11:01:46] Tick count: 136324494
+[11:01:47] Tick count: 136325495
+[11:01:48] Tick count: 136326491
+[11:01:49] Tick count: 136327492
+[11:01:50] Tick count: 136328495
+[11:01:51] Tick count: 136329493
+[11:01:52] Tick count: 136330495
+[11:01:53] Tick count: 136331490
+[11:01:54] Tick count: 136332493
+[11:01:55] Tick count: 136333493
+[11:01:56] Tick count: 136334491
+[11:01:57] Tick count: 136335490
+[11:01:58] Tick count: 136336492
+[11:01:59] Tick count: 136337495
+[11:02:00] Tick count: 136338490
+[11:02:01] Tick count: 136339492
+[11:02:02] Tick count: 136340493
+[11:02:03] Tick count: 136341495
+[11:02:04] Tick count: 136342494
+[11:02:05] Tick count: 136343490
+[11:02:06] Tick count: 136344490
+[11:02:07] Tick count: 136345491
+[11:02:08] Tick count: 136346493
+[11:02:09] Tick count: 136347491
+[11:02:10] Tick count: 136348494
+[11:02:11] Tick count: 136349495
+[11:02:12] Tick count: 136350492
+[11:02:13] Tick count: 136351490
+[11:02:14] Tick count: 136352491
+[11:02:15] Tick count: 136353493
+[11:02:16] Tick count: 136354490
+[11:02:17] Tick count: 136355490
+[11:02:18] Tick count: 136356491
+[11:02:19] Tick count: 136357493
+[11:02:20] Tick count: 136358496
+[11:02:21] Tick count: 136359494
+[11:02:22] Tick count: 136360492
+[11:02:23] Tick count: 136361494
+[11:02:24] Tick count: 136362490
+[11:02:25] Tick count: 136363493
+[11:02:26] Tick count: 136364490
+[11:02:27] Tick count: 136365491
+[11:02:28] Tick count: 136366507
+[11:02:29] Tick count: 136367495
+[11:02:30] Tick count: 136368494
+[11:02:31] Tick count: 136369495
+[11:02:32] Tick count: 136370491
+[11:02:33] Tick count: 136371493
+[11:02:34] Tick count: 136372494
+[11:02:35] Tick count: 136373490
+[11:02:36] Tick count: 136374493
+[11:02:37] Tick count: 136375493
+[11:02:38] Tick count: 136376490
+[11:02:39] Tick count: 136377494
+[11:02:40] Tick count: 136378494
+[11:02:41] Tick count: 136379494
+[11:02:42] Tick count: 136380493
+[11:02:43] Tick count: 136381494
+[11:02:44] Tick count: 136382493
+[11:02:45] Tick count: 136383494
+[11:02:46] Tick count: 136384491
+[11:02:47] Tick count: 136385491
+[11:02:48] Tick count: 136386494
+[11:02:49] Tick count: 136387492
+[11:02:50] Tick count: 136388492
+[11:02:51] Tick count: 136389494
+[11:02:52] Tick count: 136390491
+[11:02:53] Tick count: 136391494
+[11:02:54] Tick count: 136392491
+[11:02:55] Tick count: 136393491
+[11:02:56] Tick count: 136394493
+[11:02:57] Tick count: 136395491
+[11:02:58] Tick count: 136396495
+[11:02:59] Tick count: 136397492
+[11:03:00] Tick count: 136398495
+[11:03:01] Tick count: 136399491
+[11:03:02] Tick count: 136400495
+[11:03:03] Tick count: 136401490
+[11:03:04] Tick count: 136402491
+[11:03:05] Tick count: 136403494
+[11:03:06] Tick count: 136404493
+[11:03:07] Tick count: 136405493
+[11:03:08] Tick count: 136406494
+[11:03:09] Tick count: 136407492
+[11:03:10] Tick count: 136408491
+[11:03:11] Tick count: 136409490
+[11:03:12] Tick count: 136410491
+[11:03:13] Tick count: 136411493
+[11:03:14] Tick count: 136412493
+[11:03:15] Tick count: 136413490
+[11:03:16] Tick count: 136414491
+[11:03:17] Tick count: 136415491
+[11:03:18] Tick count: 136416495
+[11:03:19] Tick count: 136417492
+[11:03:20] Tick count: 136418490
+[11:03:21] Tick count: 136419490
+[11:03:22] Tick count: 136420490
+[11:03:23] Tick count: 136421492
+[11:03:24] Tick count: 136422490
+[11:03:25] Tick count: 136423491
+[11:03:26] Tick count: 136424493
+[11:03:27] Tick count: 136425491
+[11:03:28] Tick count: 136426490
+[11:03:29] Tick count: 136427490
+[11:03:30] Tick count: 136428493
+[11:03:31] Tick count: 136429492
+[11:03:32] Tick count: 136430495
+[11:03:33] Tick count: 136431494
+[11:03:34] Tick count: 136432491
+[11:03:35] Tick count: 136433490
+[11:03:36] Tick count: 136434493
+[11:03:37] Tick count: 136435494
+[11:03:38] Tick count: 136436491
+[11:03:39] Tick count: 136437491
+[11:03:40] Tick count: 136438491
+[11:03:41] Tick count: 136439496
+[11:03:42] Tick count: 136440493
+[11:03:43] Tick count: 136441490
+[11:03:44] Tick count: 136442491
+[11:03:45] Tick count: 136443495
+[11:03:46] Tick count: 136444494
+[11:03:47] Tick count: 136445494
+[11:03:48] Tick count: 136446494
+[11:03:49] Tick count: 136447494
+[11:03:50] Tick count: 136448492
+[11:03:51] Tick count: 136449493
+[11:03:52] Tick count: 136450490
+[11:03:53] Tick count: 136451493
+[11:03:54] Tick count: 136452493
+[11:03:55] Tick count: 136453491
+[11:03:56] Tick count: 136454495
+[11:03:57] Tick count: 136455493
+[11:03:58] Tick count: 136456490
+[11:03:59] Tick count: 136457493
+[11:04:00] Tick count: 136458492
+[11:04:01] Tick count: 136459490
+[11:04:02] Tick count: 136460490
+[11:04:03] Tick count: 136461490
+[11:04:04] Tick count: 136462494
+[11:04:05] Tick count: 136463494
+[11:04:06] Tick count: 136464494
+[11:04:07] Tick count: 136465502
+[11:04:08] Tick count: 136466492
+[11:04:09] Tick count: 136467490
+[11:04:10] Tick count: 136468494
+[11:04:11] Tick count: 136469494
+[11:04:12] Tick count: 136470490
+[11:04:13] Tick count: 136471492
+[11:04:14] Tick count: 136472490
+[11:04:15] Tick count: 136473493
+[11:04:16] Tick count: 136474490
+[11:04:17] Tick count: 136475493
+[11:04:18] Tick count: 136476493
+[11:04:19] Tick count: 136477491
+[11:04:20] Tick count: 136478499
+[11:04:21] Tick count: 136479491
+[11:04:22] Tick count: 136480493
+[11:04:23] Tick count: 136481492
+[11:04:24] Tick count: 136482494
+[11:04:25] Tick count: 136483495
+[11:04:26] Tick count: 136484492
+[11:04:27] Tick count: 136485494
+[11:04:28] Tick count: 136486490
+[11:04:29] Tick count: 136487496
+[11:04:30] Tick count: 136488494
+[11:04:31] Tick count: 136489493
+[11:04:32] Tick count: 136490495
+[11:04:33] Tick count: 136491494
+[11:04:34] Tick count: 136492491
+[11:04:35] Tick count: 136493493
+[11:04:36] Tick count: 136494490
+[11:04:37] Tick count: 136495493
+[11:04:38] Tick count: 136496494
+[11:04:39] Tick count: 136497491
+[11:04:40] Tick count: 136498490
+[11:04:41] Tick count: 136499494
+[11:04:42] Tick count: 136500493
+[11:04:43] Tick count: 136501491
+[11:04:44] Tick count: 136502492
+[11:04:45] Tick count: 136503494
+[11:04:46] Tick count: 136504494
+[11:04:47] Tick count: 136505495
+[11:04:48] Tick count: 136506490
+[11:04:49] Tick count: 136507491
+[11:04:50] Tick count: 136508490
+[11:04:51] Tick count: 136509491
+[11:04:52] Tick count: 136510494
+[11:04:53] Tick count: 136511492
+[11:04:54] Tick count: 136512492
+[11:04:55] Tick count: 136513495
+[11:04:56] Tick count: 136514490
+[11:04:57] Tick count: 136515495
+[11:04:58] Tick count: 136516490
+[11:04:59] Tick count: 136517493
+[11:05:00] Tick count: 136518493
+[11:05:01] Tick count: 136519494
+[11:05:02] Tick count: 136520494
+[11:05:03] Tick count: 136521490
+[11:05:04] Tick count: 136522494
+[11:05:05] Tick count: 136523494
+[11:05:06] Tick count: 136524492
+[11:05:07] Tick count: 136525496
+[11:05:08] Tick count: 136526493
+[11:05:09] Tick count: 136527495
+[11:05:10] Tick count: 136528491
+[11:05:11] Tick count: 136529491
+[11:05:12] Tick count: 136530495
+[11:05:13] Tick count: 136531493
+[11:05:14] Tick count: 136532495
+[11:05:15] Tick count: 136533492
+[11:05:16] Tick count: 136534491
+[11:05:17] Tick count: 136535490
+[11:05:18] Tick count: 136536494
+[11:05:19] Tick count: 136537491
+[11:05:20] Tick count: 136538493
+[11:05:21] Tick count: 136539500
+[11:05:22] Tick count: 136540494
+[11:05:23] Tick count: 136541491
+[11:05:24] Tick count: 136542495
+[11:05:25] Tick count: 136543495
+[11:05:26] Tick count: 136544491
+[11:05:27] Tick count: 136545493
+[11:05:28] Tick count: 136546495
+[11:05:29] Tick count: 136547490
+[11:05:30] Tick count: 136548492
+[11:05:31] Tick count: 136549491
+[11:05:32] Tick count: 136550495
+[11:05:33] Tick count: 136551495
+[11:05:34] Tick count: 136552495
+[11:05:35] Tick count: 136553494
+[11:05:36] Tick count: 136554494
+[11:05:37] Tick count: 136555490
+[11:05:38] Tick count: 136556491
+[11:05:39] Tick count: 136557495
+[11:05:40] Tick count: 136558493
+[11:05:41] Tick count: 136559495
+[11:05:42] Tick count: 136560492
+[11:05:43] Tick count: 136561490
+[11:05:44] Tick count: 136562494
+[11:05:45] Tick count: 136563495
+[11:05:46] Tick count: 136564492
+[11:05:47] Tick count: 136565492
+[11:05:48] Tick count: 136566490
+[11:05:49] Tick count: 136567492
+[11:05:50] Tick count: 136568495
+[11:05:51] Tick count: 136569492
+[11:05:52] Tick count: 136570491
+[11:05:53] Tick count: 136571490
+[11:05:54] Tick count: 136572495
+[11:05:55] Tick count: 136573492
+[11:05:56] Tick count: 136574490
+[11:05:57] Tick count: 136575494
+[11:05:58] Tick count: 136576494
+[11:05:59] Tick count: 136577494
+[11:06:00] Tick count: 136578490
+[11:06:01] Tick count: 136579494
+[11:06:02] Tick count: 136580490
+[11:06:03] Tick count: 136581494
+[11:06:04] Tick count: 136582491
+[11:06:05] Tick count: 136583495
+[11:06:06] Tick count: 136584494
+[11:06:07] Tick count: 136585490
+[11:06:08] Tick count: 136586493
+[11:06:09] Tick count: 136587494
+[11:06:10] Tick count: 136588493
+[11:06:11] Tick count: 136589495
+[11:06:12] Tick count: 136590491
+[11:06:13] Tick count: 136591490
+[11:06:14] Tick count: 136592495
+[11:06:15] Tick count: 136593493
+[11:06:16] Tick count: 136594491
+[11:06:17] Tick count: 136595490
+[11:06:18] Tick count: 136596490
+[11:06:19] Tick count: 136597495
+[11:06:20] Tick count: 136598494
+[11:06:21] Tick count: 136599490
+[11:06:22] Tick count: 136600495
+[11:06:23] Tick count: 136601493
+[11:06:24] Tick count: 136602493
+[11:06:25] Tick count: 136603490
+[11:06:26] Tick count: 136604491
+[11:06:27] Tick count: 136605495
+[11:06:28] Tick count: 136606494
+[11:06:29] Tick count: 136607491
+[11:06:30] Tick count: 136608493
+[11:06:31] Tick count: 136609495
+[11:06:32] Tick count: 136610494
+[11:06:33] Tick count: 136611490
+[11:06:34] Tick count: 136612495
+[11:06:35] Tick count: 136613490
+[11:06:36] Tick count: 136614495
+[11:06:37] Tick count: 136615495
+[11:06:38] Tick count: 136616490
+[11:06:39] Tick count: 136617490
+[11:06:40] Tick count: 136618494
+[11:06:41] Tick count: 136619493
+[11:06:42] Tick count: 136620494
+[11:06:43] Tick count: 136621491
+[11:06:44] Tick count: 136622492
+[11:06:45] Tick count: 136623490
+[11:06:46] Tick count: 136624490
+[11:06:47] Tick count: 136625492
+[11:06:48] Tick count: 136626492
+[11:06:49] Tick count: 136627493
+[11:06:50] Tick count: 136628495
+[11:06:51] Tick count: 136629491
+[11:06:52] Tick count: 136630490
+[11:06:53] Tick count: 136631491
+[11:06:54] Tick count: 136632495
+[11:06:55] Tick count: 136633492
+[11:06:56] Tick count: 136634491
+[11:06:57] Tick count: 136635491
+[11:06:58] Tick count: 136636492
+[11:06:59] Tick count: 136637491
+[11:07:00] Tick count: 136638492
+[11:07:01] Tick count: 136639493
+[11:07:02] Tick count: 136640492
+[11:07:03] Tick count: 136641490
+[11:07:04] Tick count: 136642492
+[11:07:05] Tick count: 136643493
+[11:07:06] Tick count: 136644490
+[11:07:07] Tick count: 136645492
+[11:07:08] Tick count: 136646492
+[11:07:09] Tick count: 136647494
+[11:07:10] Tick count: 136648491
+[11:07:11] Tick count: 136649491
+[11:07:12] Tick count: 136650491
+[11:07:13] Tick count: 136651495
+[11:07:14] Tick count: 136652491
+[11:07:15] Tick count: 136653490
+[11:07:16] Tick count: 136654495
+[11:07:17] Tick count: 136655492
+[11:07:18] Tick count: 136656494
+[11:07:19] Tick count: 136657495
+[11:07:20] Tick count: 136658492
+[11:07:21] Tick count: 136659494
+[11:07:22] Tick count: 136660493
+[11:07:23] Tick count: 136661493
+[11:07:24] Tick count: 136662494
+[11:07:25] Tick count: 136663491
+[11:07:26] Tick count: 136664494
+[11:07:27] Tick count: 136665493
+[11:07:28] Tick count: 136666493
+[11:07:29] Tick count: 136667491
+[11:07:30] Tick count: 136668492
+[11:07:31] Tick count: 136669494
+[11:07:32] Tick count: 136670492
+[11:07:33] Tick count: 136671492
+[11:07:34] Tick count: 136672491
+[11:07:35] Tick count: 136673494
+[11:07:36] Tick count: 136674494
+[11:07:37] Tick count: 136675491
+[11:07:38] Tick count: 136676491
+[11:07:39] Tick count: 136677495
+[11:07:40] Tick count: 136678494
+[11:07:41] Tick count: 136679491
+[11:07:42] Tick count: 136680491
+[11:07:43] Tick count: 136681492
+[11:07:44] Tick count: 136682490
+[11:07:45] Tick count: 136683492
+[11:07:46] Tick count: 136684492
+[11:07:47] Tick count: 136685494
+[11:07:48] Tick count: 136686491
+[11:07:49] Tick count: 136687494
+[11:07:50] Tick count: 136688494
+[11:07:51] Tick count: 136689495
+[11:07:52] Tick count: 136690491
+[11:07:53] Tick count: 136691494
+[11:07:54] Tick count: 136692492
+[11:07:55] Tick count: 136693495
+[11:07:56] Tick count: 136694490
+[11:07:57] Tick count: 136695494
+[11:07:58] Tick count: 136696495
+[11:07:59] Tick count: 136697495
+[11:08:00] Tick count: 136698490
+[11:08:01] Tick count: 136699494
+[11:08:02] Tick count: 136700495
+[11:08:03] Tick count: 136701495
+[11:08:04] Tick count: 136702493
+[11:08:05] Tick count: 136703494
+[11:08:06] Tick count: 136704491
+[11:08:07] Tick count: 136705490
+[11:08:08] Tick count: 136706494
+[11:08:09] Tick count: 136707490
+[11:08:10] Tick count: 136708492
+[11:08:11] Tick count: 136709495
+[11:08:12] Tick count: 136710493
+[11:08:13] Tick count: 136711493
+[11:08:14] Tick count: 136712490
+[11:08:15] Tick count: 136713491
+[11:08:16] Tick count: 136714491
+[11:08:17] Tick count: 136715492
+[11:08:18] Tick count: 136716490
+[11:08:19] Tick count: 136717491
+[11:08:20] Tick count: 136718492
+[11:08:21] Tick count: 136719494
+[11:08:22] Tick count: 136720490
+[11:08:23] Tick count: 136721491
+[11:08:24] Tick count: 136722495
+[11:08:25] Tick count: 136723493
+[11:08:26] Tick count: 136724493
+[11:08:27] Tick count: 136725495
+[11:08:28] Tick count: 136726491
+[11:08:29] Tick count: 136727493
+[11:08:30] Tick count: 136728496
+[11:08:31] Tick count: 136729493
+[11:08:32] Tick count: 136730495
+[11:08:33] Tick count: 136731490
+[11:08:34] Tick count: 136732495
+[11:08:35] Tick count: 136733491
+[11:08:36] Tick count: 136734491
+[11:08:37] Tick count: 136735491
+[11:08:38] Tick count: 136736491
+[11:08:39] Tick count: 136737490
+[11:08:40] Tick count: 136738491
+[11:08:41] Tick count: 136739495
+[11:08:42] Tick count: 136740490
+[11:08:43] Tick count: 136741494
+[11:08:44] Tick count: 136742490
+[11:08:45] Tick count: 136743494
+[11:08:46] Tick count: 136744495
+[11:08:47] Tick count: 136745490
+[11:08:48] Tick count: 136746492
+[11:08:49] Tick count: 136747493
+[11:08:50] Tick count: 136748495
+[11:08:51] Tick count: 136749495
+[11:08:52] Tick count: 136750492
+[11:08:53] Tick count: 136751491
+[11:08:54] Tick count: 136752492
+[11:08:55] Tick count: 136753494
+[11:08:56] Tick count: 136754492
+[11:08:57] Tick count: 136755490
+[11:08:58] Tick count: 136756491
+[11:08:59] Tick count: 136757492
+[11:09:00] Tick count: 136758490
+[11:09:01] Tick count: 136759490
+[11:09:02] Tick count: 136760490
+[11:09:03] Tick count: 136761492
+[11:09:04] Tick count: 136762492
+[11:09:05] Tick count: 136763494
+[11:09:06] Tick count: 136764492
+[11:09:07] Tick count: 136765491
+[11:09:08] Tick count: 136766495
+[11:09:09] Tick count: 136767492
+[11:09:10] Tick count: 136768495
+[11:09:11] Tick count: 136769491
+[11:09:12] Tick count: 136770490
+[11:09:13] Tick count: 136771495
+[11:09:14] Tick count: 136772491
+[11:09:15] Tick count: 136773491
+[11:09:16] Tick count: 136774490
+[11:09:17] Tick count: 136775491
+[11:09:18] Tick count: 136776493
+[11:09:19] Tick count: 136777492
+[11:09:20] Tick count: 136778492
+[11:09:21] Tick count: 136779490
+[11:09:22] Tick count: 136780491
+[11:09:23] Tick count: 136781493
+[11:09:24] Tick count: 136782490
+[11:09:25] Tick count: 136783495
+[11:09:26] Tick count: 136784492
+[11:09:27] Tick count: 136785494
+[11:09:28] Tick count: 136786490
+[11:09:29] Tick count: 136787495
+[11:09:30] Tick count: 136788494
+[11:09:31] Tick count: 136789490
+[11:09:32] Tick count: 136790495
+[11:09:33] Tick count: 136791494
+[11:09:34] Tick count: 136792494
+[11:09:35] Tick count: 136793491
+[11:09:36] Tick count: 136794495
+[11:09:37] Tick count: 136795490
+[11:09:38] Tick count: 136796491
+[11:09:39] Tick count: 136797495
+[11:09:40] Tick count: 136798493
+[11:09:41] Tick count: 136799491
+[11:09:42] Tick count: 136800492
+[11:09:43] Tick count: 136801495
+[11:09:44] Tick count: 136802490
+[11:09:45] Tick count: 136803494
+[11:09:46] Tick count: 136804494
+[11:09:47] Tick count: 136805491
+[11:09:48] Tick count: 136806494
+[11:09:49] Tick count: 136807492
+[11:09:50] Tick count: 136808492
+[11:09:51] Tick count: 136809493
+[11:09:52] Tick count: 136810494
+[11:09:53] Tick count: 136811490
+[11:09:54] Tick count: 136812494
+[11:09:55] Tick count: 136813494
+[11:09:56] Tick count: 136814492
+[11:09:57] Tick count: 136815494
+[11:09:58] Tick count: 136816490
+[11:09:59] Tick count: 136817495
+[11:10:00] Tick count: 136818490
+[11:10:01] Tick count: 136819493
+[11:10:02] Tick count: 136820491
+[11:10:03] Tick count: 136821490
+[11:10:04] Tick count: 136822491
+[11:10:05] Tick count: 136823491
+[11:10:06] Tick count: 136824493
+[11:10:07] Tick count: 136825491
+[11:10:08] Tick count: 136826492
+[11:10:09] Tick count: 136827493
+[11:10:10] Tick count: 136828491
+[11:10:11] Tick count: 136829494
+[11:10:12] Tick count: 136830494
+[11:10:13] Tick count: 136831494
+[11:10:14] Tick count: 136832493
+[11:10:15] Tick count: 136833493
+[11:10:16] Tick count: 136834493
+[11:10:17] Tick count: 136835491
+[11:10:18] Tick count: 136836493
+[11:10:19] Tick count: 136837494
+[11:10:20] Tick count: 136838496
+[11:10:21] Tick count: 136839492
+[11:10:22] Tick count: 136840494
+[11:10:23] Tick count: 136841490
+[11:10:24] Tick count: 136842490
+[11:10:25] Tick count: 136843494
+[11:10:26] Tick count: 136844493
+[11:10:27] Tick count: 136845492
+[11:10:28] Tick count: 136846490
+[11:10:29] Tick count: 136847494
+[11:10:30] Tick count: 136848495
+[11:10:31] Tick count: 136849494
+[11:10:32] Tick count: 136850495
+[11:10:33] Tick count: 136851496
+[11:10:34] Tick count: 136852492
+[11:10:35] Tick count: 136853493
+[11:10:36] Tick count: 136854492
+[11:10:37] Tick count: 136855490
+[11:10:38] Tick count: 136856492
+[11:10:39] Tick count: 136857493
+[11:10:40] Tick count: 136858494
+[11:10:41] Tick count: 136859492
+[11:10:42] Tick count: 136860492
+[11:10:43] Tick count: 136861491
+[11:10:44] Tick count: 136862490
+[11:10:45] Tick count: 136863495
+[11:10:46] Tick count: 136864495
+[11:10:47] Tick count: 136865494
+[11:10:48] Tick count: 136866493
+[11:10:49] Tick count: 136867493
+[11:10:50] Tick count: 136868490
+[11:10:51] Tick count: 136869491
+[11:10:52] Tick count: 136870493
+[11:10:53] Tick count: 136871491
+[11:10:54] Tick count: 136872494
+[11:10:55] Tick count: 136873493
+[11:10:56] Tick count: 136874494
+[11:10:57] Tick count: 136875492
+[11:10:58] Tick count: 136876491
+[11:10:59] Tick count: 136877493
+[11:11:00] Tick count: 136878491
+[11:11:01] Tick count: 136879492
+[11:11:02] Tick count: 136880494
+[11:11:03] Tick count: 136881494
+[11:11:04] Tick count: 136882490
+[11:11:05] Tick count: 136883495
+[11:11:06] Tick count: 136884495
+[11:11:07] Tick count: 136885492
+[11:11:08] Tick count: 136886491
+[11:11:09] Tick count: 136887492
+[11:11:10] Tick count: 136888493
+[11:11:11] Tick count: 136889490
+[11:11:12] Tick count: 136890494
+[11:11:13] Tick count: 136891490
+[11:11:14] Tick count: 136892491
+[11:11:15] Tick count: 136893495
+[11:11:16] Tick count: 136894494
+[11:11:17] Tick count: 136895492
+[11:11:18] Tick count: 136896490
+[11:11:19] Tick count: 136897492
+[11:11:20] Tick count: 136898492
+[11:11:21] Tick count: 136899491
+[11:11:22] Tick count: 136900494
+[11:11:23] Tick count: 136901494
+[11:11:24] Tick count: 136902493
+[11:11:25] Tick count: 136903495
+[11:11:26] Tick count: 136904495
+[11:11:27] Tick count: 136905495
+[11:11:28] Tick count: 136906490
+[11:11:29] Tick count: 136907492
+[11:11:30] Tick count: 136908494
+[11:11:31] Tick count: 136909495
+[11:11:32] Tick count: 136910491
+[11:11:33] Tick count: 136911493
+[11:11:34] Tick count: 136912490
+[11:11:35] Tick count: 136913492
+[11:11:36] Tick count: 136914495
+[11:11:37] Tick count: 136915495
+[11:11:38] Tick count: 136916492
+[11:11:39] Tick count: 136917492
+[11:11:40] Tick count: 136918492
+[11:11:41] Tick count: 136919491
+[11:11:42] Tick count: 136920490
+[11:11:43] Tick count: 136921495
+[11:11:44] Tick count: 136922491
+[11:11:45] Tick count: 136923491
+[11:11:46] Tick count: 136924490
+[11:11:47] Tick count: 136925491
+[11:11:48] Tick count: 136926494
+[11:11:49] Tick count: 136927491
+[11:11:50] Tick count: 136928494
+[11:11:51] Tick count: 136929491
+[11:11:52] Tick count: 136930492
+[11:11:53] Tick count: 136931490
+[11:11:54] Tick count: 136932494
+[11:11:55] Tick count: 136933493
+[11:11:56] Tick count: 136934490
+[11:11:57] Tick count: 136935493
+[11:11:58] Tick count: 136936494
+[11:11:59] Tick count: 136937494
+[11:12:00] Tick count: 136938493
+[11:12:01] Tick count: 136939494
+[11:12:02] Tick count: 136940493
+[11:12:03] Tick count: 136941493
+[11:12:04] Tick count: 136942492
+[11:12:05] Tick count: 136943491
+[11:12:06] Tick count: 136944494
+[11:12:07] Tick count: 136945495
+[11:12:08] Tick count: 136946492
+[11:12:09] Tick count: 136947495
+[11:12:10] Tick count: 136948493
+[11:12:11] Tick count: 136949492
+[11:12:12] Tick count: 136950491
+[11:12:13] Tick count: 136951493
+[11:12:14] Tick count: 136952493
+[11:12:15] Tick count: 136953495
+[11:12:16] Tick count: 136954493
+[11:12:17] Tick count: 136955497
+[11:12:18] Tick count: 136956493
+[11:12:19] Tick count: 136957495
+[11:12:20] Tick count: 136958494
+[11:12:21] Tick count: 136959493
+[11:12:22] Tick count: 136960492
+[11:12:23] Tick count: 136961491
+[11:12:24] Tick count: 136962492
+[11:12:25] Tick count: 136963495
+[11:12:26] Tick count: 136964491
+[11:12:27] Tick count: 136965491
+[11:12:28] Tick count: 136966495
+[11:12:29] Tick count: 136967493
+[11:12:30] Tick count: 136968492
+[11:12:31] Tick count: 136969490
+[11:12:32] Tick count: 136970492
+[11:12:33] Tick count: 136971509
+[11:12:34] Tick count: 136972490
+[11:12:35] Tick count: 136973493
+[11:12:36] Tick count: 136974495
+[11:12:37] Tick count: 136975493
+[11:12:38] Tick count: 136976493
+[11:12:39] Tick count: 136977494
+[11:12:40] Tick count: 136978494
+[11:12:41] Tick count: 136979493
+[11:12:42] Tick count: 136980490
+[11:12:43] Tick count: 136981491
+[11:12:44] Tick count: 136982494
+[11:12:45] Tick count: 136983492
+[11:12:46] Tick count: 136984494
+[11:12:47] Tick count: 136985490
+[11:12:48] Tick count: 136986492
+[11:12:49] Tick count: 136987492
+[11:12:50] Tick count: 136988494
+[11:12:51] Tick count: 136989490
+[11:12:52] Tick count: 136990494
+[11:12:53] Tick count: 136991490
+[11:12:54] Tick count: 136992491
+[11:12:55] Tick count: 136993491
+[11:12:56] Tick count: 136994491
+[11:12:57] Tick count: 136995493
+[11:12:58] Tick count: 136996490
+[11:12:59] Tick count: 136997492
+[11:13:00] Tick count: 136998495
+[11:13:01] Tick count: 136999490
+[11:13:02] Tick count: 137000491
+[11:13:03] Tick count: 137001493
+[11:13:04] Tick count: 137002493
+[11:13:05] Tick count: 137003490
+[11:13:06] Tick count: 137004494
+[11:13:07] Tick count: 137005494
+[11:13:08] Tick count: 137006495
+[11:13:09] Tick count: 137007492
+[11:13:10] Tick count: 137008495
+[11:13:11] Tick count: 137009495
+[11:13:12] Tick count: 137010491
+[11:13:13] Tick count: 137011493
+[11:13:14] Tick count: 137012495
+[11:13:15] Tick count: 137013495
+[11:13:16] Tick count: 137014490
+[11:13:17] Tick count: 137015490
+[11:13:18] Tick count: 137016490
+[11:13:19] Tick count: 137017496
+[11:13:20] Tick count: 137018495
+[11:13:21] Tick count: 137019492
+[11:13:22] Tick count: 137020495
+[11:13:23] Tick count: 137021494
+[11:13:24] Tick count: 137022491
+[11:13:25] Tick count: 137023494
+[11:13:26] Tick count: 137024490
+[11:13:27] Tick count: 137025495
+[11:13:28] Tick count: 137026493
+[11:13:29] Tick count: 137027493
+[11:13:30] Tick count: 137028493
+[11:13:31] Tick count: 137029490
+[11:13:32] Tick count: 137030493
+[11:13:33] Tick count: 137031495
+[11:13:34] Tick count: 137032491
+[11:13:35] Tick count: 137033495
+[11:13:36] Tick count: 137034493
+[11:13:37] Tick count: 137035494
+[11:13:38] Tick count: 137036490
+[11:13:39] Tick count: 137037493
+[11:13:40] Tick count: 137038494
+[11:13:41] Tick count: 137039492
+[11:13:42] Tick count: 137040492
+[11:13:43] Tick count: 137041492
+[11:13:44] Tick count: 137042495
+[11:13:45] Tick count: 137043494
+[11:13:46] Tick count: 137044491
+[11:13:47] Tick count: 137045493
+[11:13:48] Tick count: 137046494
+[11:13:49] Tick count: 137047491
+[11:13:50] Tick count: 137048492
+[11:13:51] Tick count: 137049493
+[11:13:52] Tick count: 137050493
+[11:13:53] Tick count: 137051494
+[11:13:54] Tick count: 137052494
+[11:13:55] Tick count: 137053490
+[11:13:56] Tick count: 137054493
+[11:13:57] Tick count: 137055491
+[11:13:58] Tick count: 137056492
+[11:13:59] Tick count: 137057495
+[11:14:00] Tick count: 137058495
+[11:14:01] Tick count: 137059490
+[11:14:02] Tick count: 137060494
+[11:14:03] Tick count: 137061491
+[11:14:04] Tick count: 137062494
+[11:14:05] Tick count: 137063491
+[11:14:06] Tick count: 137064492
+[11:14:07] Tick count: 137065492
+[11:14:08] Tick count: 137066492
+[11:14:09] Tick count: 137067491
+[11:14:10] Tick count: 137068492
+[11:14:11] Tick count: 137069495
+[11:14:12] Tick count: 137070494
+[11:14:13] Tick count: 137071493
+[11:14:14] Tick count: 137072490
+[11:14:15] Tick count: 137073491
+[11:14:16] Tick count: 137074491
+[11:14:17] Tick count: 137075491
+[11:14:18] Tick count: 137076490
+[11:14:19] Tick count: 137077491
+[11:14:20] Tick count: 137078491
+[11:14:21] Tick count: 137079493
+[11:14:22] Tick count: 137080490
+[11:14:23] Tick count: 137081493
+[11:14:24] Tick count: 137082494
+[11:14:25] Tick count: 137083495
+[11:14:26] Tick count: 137084491
+[11:14:27] Tick count: 137085495
+[11:14:28] Tick count: 137086494
+[11:14:29] Tick count: 137087495
+[11:14:30] Tick count: 137088492
+[11:14:31] Tick count: 137089494
+[11:14:32] Tick count: 137090492
+[11:14:33] Tick count: 137091493
+[11:14:34] Tick count: 137092494
+[11:14:35] Tick count: 137093494
+[11:14:36] Tick count: 137094493
+[11:14:37] Tick count: 137095494
+[11:14:38] Tick count: 137096493
+[11:14:39] Tick count: 137097493
+[11:14:40] Tick count: 137098495
+[11:14:41] Tick count: 137099493
+[11:14:42] Tick count: 137100493
+[11:14:43] Tick count: 137101490
+[11:14:44] Tick count: 137102490
+[11:14:45] Tick count: 137103495
+[11:14:46] Tick count: 137104493
+[11:14:47] Tick count: 137105490
+[11:14:48] Tick count: 137106491
+[11:14:49] Tick count: 137107490
+[11:14:50] Tick count: 137108491
+[11:14:51] Tick count: 137109495
+[11:14:52] Tick count: 137110494
+[11:14:53] Tick count: 137111493
+[11:14:54] Tick count: 137112490
+[11:14:55] Tick count: 137113495
+[11:14:56] Tick count: 137114490
+[11:14:57] Tick count: 137115495
+[11:14:58] Tick count: 137116495
+[11:14:59] Tick count: 137117490
+[11:15:00] Tick count: 137118491
+[11:15:01] Tick count: 137119491
+[11:15:02] Tick count: 137120490
+[11:15:03] Tick count: 137121494
+[11:15:04] Tick count: 137122495
+[11:15:05] Tick count: 137123490
+[11:15:06] Tick count: 137124491
+[11:15:07] Tick count: 137125492
+[11:15:08] Tick count: 137126493
+[11:15:09] Tick count: 137127492
+[11:15:10] Tick count: 137128491
+[11:15:11] Tick count: 137129494
+[11:15:12] Tick count: 137130493
+[11:15:13] Tick count: 137131491
+[11:15:14] Tick count: 137132490
+[11:15:15] Tick count: 137133493
+[11:15:16] Tick count: 137134492
+[11:15:17] Tick count: 137135494
+[11:15:18] Tick count: 137136492
+[11:15:19] Tick count: 137137494
+[11:15:20] Tick count: 137138490
+[11:15:21] Tick count: 137139494
+[11:15:22] Tick count: 137140492
+[11:15:23] Tick count: 137141490
+[11:15:24] Tick count: 137142490
+[11:15:25] Tick count: 137143492
+[11:15:26] Tick count: 137144492
+[11:15:27] Tick count: 137145490
+[11:15:28] Tick count: 137146494
+[11:15:29] Tick count: 137147491
+[11:15:30] Tick count: 137148491
+[11:15:31] Tick count: 137149492
+[11:15:32] Tick count: 137150494
+[11:15:33] Tick count: 137151491
+[11:15:34] Tick count: 137152491
+[11:15:35] Tick count: 137153495
+[11:15:36] Tick count: 137154490
+[11:15:37] Tick count: 137155493
+[11:15:38] Tick count: 137156491
+[11:15:39] Tick count: 137157494
+[11:15:40] Tick count: 137158493
+[11:15:41] Tick count: 137159490
+[11:15:42] Tick count: 137160491
+[11:15:43] Tick count: 137161492
+[11:15:44] Tick count: 137162494
+[11:15:45] Tick count: 137163495
+[11:15:46] Tick count: 137164495
+[11:15:47] Tick count: 137165490
+[11:15:48] Tick count: 137166490
+[11:15:49] Tick count: 137167495
+[11:15:50] Tick count: 137168491
+[11:15:51] Tick count: 137169492
+[11:15:52] Tick count: 137170490
+[11:15:53] Tick count: 137171492
+[11:15:54] Tick count: 137172495
+[11:15:55] Tick count: 137173490
+[11:15:56] Tick count: 137174493
+[11:15:57] Tick count: 137175490
+[11:15:58] Tick count: 137176494
+[11:15:59] Tick count: 137177491
+[11:16:00] Tick count: 137178495
+[11:16:01] Tick count: 137179494
+[11:16:02] Tick count: 137180490
+[11:16:03] Tick count: 137181490
+[11:16:04] Tick count: 137182491
+[11:16:05] Tick count: 137183494
+[11:16:06] Tick count: 137184493
+[11:16:07] Tick count: 137185493
+[11:16:08] Tick count: 137186493
+[11:16:09] Tick count: 137187491
+[11:16:10] Tick count: 137188495
+[11:16:11] Tick count: 137189495
+[11:16:12] Tick count: 137190490
+[11:16:13] Tick count: 137191491
+[11:16:14] Tick count: 137192491
+[11:16:15] Tick count: 137193494
+[11:16:16] Tick count: 137194494
+[11:16:17] Tick count: 137195493
+[11:16:18] Tick count: 137196493
+[11:16:19] Tick count: 137197490
+[11:16:20] Tick count: 137198490
+[11:16:21] Tick count: 137199495
+[11:16:22] Tick count: 137200492
+[11:16:23] Tick count: 137201490
+[11:16:24] Tick count: 137202492
+[11:16:25] Tick count: 137203493
+[11:16:26] Tick count: 137204494
+[11:16:27] Tick count: 137205495
+[11:16:28] Tick count: 137206493
+[11:16:29] Tick count: 137207491
+[11:16:30] Tick count: 137208494
+[11:16:31] Tick count: 137209492
+[11:16:32] Tick count: 137210491
+[11:16:33] Tick count: 137211494
+[11:16:34] Tick count: 137212491
+[11:16:35] Tick count: 137213494
+[11:16:36] Tick count: 137214490
+[11:16:37] Tick count: 137215493
+[11:16:38] Tick count: 137216491
+[11:16:39] Tick count: 137217492
+[11:16:40] Tick count: 137218493
+[11:16:41] Tick count: 137219495
+[11:16:42] Tick count: 137220491
+[11:16:43] Tick count: 137221495
+[11:16:44] Tick count: 137222490
+[11:16:45] Tick count: 137223490
+[11:16:46] Tick count: 137224493
+[11:16:47] Tick count: 137225491
+[11:16:48] Tick count: 137226492
+[11:16:49] Tick count: 137227495
+[11:16:50] Tick count: 137228490
+[11:16:51] Tick count: 137229492
+[11:16:52] Tick count: 137230491
+[11:16:53] Tick count: 137231491
+[11:16:54] Tick count: 137232491
+[11:16:55] Tick count: 137233490
+[11:16:56] Tick count: 137234492
+[11:16:57] Tick count: 137235493
+[11:16:58] Tick count: 137236492
+[11:16:59] Tick count: 137237491
+[11:17:00] Tick count: 137238495
+[11:17:01] Tick count: 137239491
+[11:17:02] Tick count: 137240494
+[11:17:03] Tick count: 137241495
+[11:17:04] Tick count: 137242492
+[11:17:05] Tick count: 137243494
+[11:17:06] Tick count: 137244491
+[11:17:07] Tick count: 137245495
+[11:17:08] Tick count: 137246493
+[11:17:09] Tick count: 137247494
+[11:17:10] Tick count: 137248490
+[11:17:11] Tick count: 137249494
+[11:17:12] Tick count: 137250492
+[11:17:13] Tick count: 137251490
+[11:17:14] Tick count: 137252493
+[11:17:15] Tick count: 137253490
+[11:17:16] Tick count: 137254495
+[11:17:17] Tick count: 137255492
+[11:17:18] Tick count: 137256495
+[11:17:19] Tick count: 137257492
+[11:17:20] Tick count: 137258494
+[11:17:21] Tick count: 137259494
+[11:17:22] Tick count: 137260492
+[11:17:23] Tick count: 137261494
+[11:17:24] Tick count: 137262493
+[11:17:25] Tick count: 137263492
+[11:17:26] Tick count: 137264492
+[11:17:27] Tick count: 137265490
+[11:17:28] Tick count: 137266494
+[11:17:29] Tick count: 137267494
+[11:17:30] Tick count: 137268493
+[11:17:31] Tick count: 137269495
+[11:17:32] Tick count: 137270492
+[11:17:33] Tick count: 137271493
+[11:17:34] Tick count: 137272492
+[11:17:35] Tick count: 137273491
+[11:17:36] Tick count: 137274495
+[11:17:37] Tick count: 137275493
+[11:17:38] Tick count: 137276494
+[11:17:39] Tick count: 137277492
+[11:17:40] Tick count: 137278493
+[11:17:41] Tick count: 137279490
+[11:17:42] Tick count: 137280495
+[11:17:43] Tick count: 137281494
+[11:17:44] Tick count: 137282494
+[11:17:45] Tick count: 137283490
+[11:17:46] Tick count: 137284495
+[11:17:47] Tick count: 137285495
+[11:17:48] Tick count: 137286492
+[11:17:49] Tick count: 137287491
+[11:17:50] Tick count: 137288491
+[11:17:51] Tick count: 137289494
+[11:17:52] Tick count: 137290491
+[11:17:53] Tick count: 137291490
+[11:17:54] Tick count: 137292493
+[11:17:55] Tick count: 137293494
+[11:17:56] Tick count: 137294494
+[11:17:57] Tick count: 137295491
+[11:17:58] Tick count: 137296490
+[11:17:59] Tick count: 137297492
+[11:18:00] Tick count: 137298494
+[11:18:01] Tick count: 137299490
+[11:18:02] Tick count: 137300499
+[11:18:03] Tick count: 137301491
+[11:18:04] Tick count: 137302494
+[11:18:05] Tick count: 137303490
+[11:18:06] Tick count: 137304494
+[11:18:07] Tick count: 137305495
+[11:18:08] Tick count: 137306493
+[11:18:09] Tick count: 137307491
+[11:18:10] Tick count: 137308494
+[11:18:11] Tick count: 137309491
+[11:18:12] Tick count: 137310494
+[11:18:13] Tick count: 137311493
+[11:18:14] Tick count: 137312493
+[11:18:15] Tick count: 137313493
+[11:18:16] Tick count: 137314492
+[11:18:17] Tick count: 137315493
+[11:18:18] Tick count: 137316492
+[11:18:19] Tick count: 137317491
+[11:18:20] Tick count: 137318494
+[11:18:21] Tick count: 137319491
+[11:18:22] Tick count: 137320492
+[11:18:23] Tick count: 137321494
+[11:18:24] Tick count: 137322490
+[11:18:25] Tick count: 137323495
+[11:18:26] Tick count: 137324490
+[11:18:27] Tick count: 137325491
+[11:18:28] Tick count: 137326494
+[11:18:29] Tick count: 137327492
+[11:18:30] Tick count: 137328493
+[11:18:31] Tick count: 137329491
+[11:18:32] Tick count: 137330494
+[11:18:33] Tick count: 137331495
+[11:18:34] Tick count: 137332494
+[11:18:35] Tick count: 137333495
+[11:18:36] Tick count: 137334494
+[11:18:37] Tick count: 137335490
+[11:18:38] Tick count: 137336493
+[11:18:39] Tick count: 137337493
+[11:18:40] Tick count: 137338491
+[11:18:41] Tick count: 137339495
+[11:18:42] Tick count: 137340495
+[11:18:43] Tick count: 137341494
+[11:18:44] Tick count: 137342490
+[11:18:45] Tick count: 137343490
+[11:18:46] Tick count: 137344492
+[11:18:47] Tick count: 137345493
+[11:18:48] Tick count: 137346494
+[11:18:49] Tick count: 137347494
+[11:18:50] Tick count: 137348492
+[11:18:51] Tick count: 137349490
+[11:18:52] Tick count: 137350493
+[11:18:53] Tick count: 137351493
+[11:18:54] Tick count: 137352494
+[11:18:55] Tick count: 137353494
+[11:18:56] Tick count: 137354490
+[11:18:57] Tick count: 137355493
+[11:18:58] Tick count: 137356492
+[11:18:59] Tick count: 137357495
+[11:19:00] Tick count: 137358491
+[11:19:01] Tick count: 137359495
+[11:19:02] Tick count: 137360492
+[11:19:03] Tick count: 137361492
+[11:19:04] Tick count: 137362495
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7, (C)2005-2015 SA-MP Team
+
+[19:06:57] filterscripts = ""  (string)
+[19:06:57] 
+[19:06:57] Server Plugins
+[19:06:57] --------------
+[19:06:57]  Loading plugin: gtaminigames
+[19:06:57]   Loaded.
+[19:06:57]  Loaded 1 plugins.
+
+[19:06:57] 
+[19:06:57] Filterscripts
+[19:06:57] ---------------
+[19:06:57]   Loaded 0 filterscripts.
+
+[19:06:57] Number of vehicle models: 0
+[19:06:58] Tick count: 165436021
+[19:06:59] Tick count: 165437026
+[19:07:00] Tick count: 165438021
+[19:07:01] Tick count: 165439026
+[19:07:02] Tick count: 165440022
+[19:07:03] Tick count: 165441021
+[19:07:04] Tick count: 165442023
+[19:07:05] Tick count: 165443024
+[19:07:06] Tick count: 165444023
+[19:07:07] Tick count: 165445025
+[19:07:08] Tick count: 165446022
+[19:07:09] Tick count: 165447022
+[19:07:10] Tick count: 165448022
+[19:07:11] Tick count: 165449024
+[19:07:12] Tick count: 165450022
+[19:07:13] Tick count: 165451025
+[19:07:14] Tick count: 165452022
+[19:07:15] Tick count: 165453022
+[19:07:15] [connection] 127.0.0.1:60663 requests connection cookie.
+[19:07:16] Tick count: 165454023
+[19:07:16] Incoming connection: 127.0.0.1:60663 id: 0
+[19:07:17] [join] alivesheep has joined the server (0:127.0.0.1)
+[19:07:17] Tick count: 165455024
+[19:07:18] Tick count: 165456024
+[19:07:19] Tick count: 165457025
+[19:07:20] Tick count: 165458026
+[19:07:21] Tick count: 165459023
+[19:07:22] Tick count: 165460024
+[19:07:23] Tick count: 165461026
+[19:07:24] Tick count: 165462023
+[19:07:25] Tick count: 165463021
+[19:07:26] Tick count: 165464024
+[19:07:27] Tick count: 165465024
+[19:07:28] Tick count: 165466025
+[19:07:29] Tick count: 165467022
+[19:07:30] Tick count: 165468024
+[19:07:31] Tick count: 165469023
+[19:07:32] Tick count: 165470023
+[19:07:33] Tick count: 165471021
+[19:07:34] Tick count: 165472021
+[19:07:35] Tick count: 165473021
+[19:07:36] Tick count: 165474024
+[19:07:37] Tick count: 165475026
+[19:07:38] Tick count: 165476023
+[19:07:39] Tick count: 165477021
+[19:07:40] Tick count: 165478022
+[19:07:41] Tick count: 165479024
+[19:07:42] Tick count: 165480024
+[19:07:43] Tick count: 165481024
+[19:07:44] Tick count: 165482023
+[19:07:45] Tick count: 165483021
+[19:07:46] Tick count: 165484022
+[19:07:47] Tick count: 165485026
+[19:07:48] Tick count: 165486022
+[19:07:49] Tick count: 165487025
+[19:07:50] Tick count: 165488026
+[19:07:51] Tick count: 165489025
+[19:07:52] Tick count: 165490024
+[19:07:53] Tick count: 165491026
+[19:07:54] Tick count: 165492024
+[19:07:55] Tick count: 165493024
+[19:07:56] Tick count: 165494026
+[19:07:57] Tick count: 165495022
+[19:07:58] Tick count: 165496024
+[19:07:59] Tick count: 165497021
+[19:08:00] Tick count: 165498023
+[19:08:01] Tick count: 165499022
+[19:08:02] Tick count: 165500023
+[19:08:03] Tick count: 165501026
+[19:08:04] Tick count: 165502022
+[19:08:05] Tick count: 165503023
+[19:08:05] [part] alivesheep has left the server (0:1)
+[19:08:06] Tick count: 165504021
+[19:08:07] Tick count: 165505021
+[19:08:08] Tick count: 165506024
+[19:08:09] Tick count: 165507025
+[19:08:10] Tick count: 165508024
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7, (C)2005-2015 SA-MP Team
+
+[16:07:37] filterscripts = ""  (string)
+[16:07:37] plugins = ""  (string)
+[16:07:37] 
+[16:07:37] Server Plugins
+[16:07:37] --------------
+[16:07:37]  Loaded 0 plugins.
+
+[16:07:37] 
+[16:07:37] Filterscripts
+[16:07:37] ---------------
+[16:07:37]   Loaded 0 filterscripts.
+
+[16:07:37]  
+[16:07:37]  
+[16:07:37]  
+[16:07:37]  ======================================= 
+[16:07:37]  |                                     | 
+[16:07:37]  |        YSI version 4.00.0001        | 
+[16:07:37]  |        By Alex "Y_Less" Cole        | 
+[16:07:37]  |                                     | 
+[16:07:37]  ======================================= 
+[16:07:37]  
+[16:07:37] 
+
+============================================================
+
+[16:07:37] Initializing...
+
+[16:07:37] 
+
+GTA:Missions . initialiazed.
+
+[16:07:37] ============================================================
+
+[16:07:37] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7, (C)2005-2015 SA-MP Team
+
+[16:07:53] filterscripts = ""  (string)
+[16:07:53] plugins = ""  (string)
+[16:07:53] 
+[16:07:53] Server Plugins
+[16:07:53] --------------
+[16:07:53]  Loaded 0 plugins.
+
+[16:07:53] 
+[16:07:53] Filterscripts
+[16:07:53] ---------------
+[16:07:53]   Loaded 0 filterscripts.
+
+[16:07:53]  
+[16:07:53]  
+[16:07:53]  
+[16:07:53]  ======================================= 
+[16:07:53]  |                                     | 
+[16:07:53]  |        YSI version 4.00.0001        | 
+[16:07:53]  |        By Alex "Y_Less" Cole        | 
+[16:07:53]  |                                     | 
+[16:07:53]  ======================================= 
+[16:07:53]  
+[16:07:53] 
+
+============================================================
+
+[16:07:53] Initializing...
+
+[16:07:53] 
+
+GTA:Missions . initialiazed.
+
+[16:07:53] ============================================================
+
+[16:07:53] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7, (C)2005-2015 SA-MP Team
+
+[16:08:13] filterscripts = ""  (string)
+[16:08:13] plugins = ""  (string)
+[16:08:13] 
+[16:08:13] Server Plugins
+[16:08:13] --------------
+[16:08:13]  Loaded 0 plugins.
+
+[16:08:13] 
+[16:08:13] Filterscripts
+[16:08:13] ---------------
+[16:08:13]   Loaded 0 filterscripts.
+
+[16:08:13]  
+[16:08:13]  
+[16:08:13]  
+[16:08:13]  ======================================= 
+[16:08:13]  |                                     | 
+[16:08:13]  |        YSI version 4.00.0001        | 
+[16:08:13]  |        By Alex "Y_Less" Cole        | 
+[16:08:13]  |                                     | 
+[16:08:13]  ======================================= 
+[16:08:13]  
+[16:08:13] 
+
+============================================================
+
+[16:08:13] Initializing...
+
+[16:08:13] 
+
+GTA:Missions 0.10 initialiazed.
+
+[16:08:13] ============================================================
+
+[16:08:13] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7, (C)2005-2015 SA-MP Team
+
+[16:08:20] filterscripts = ""  (string)
+[16:08:20] plugins = ""  (string)
+[16:08:20] 
+[16:08:20] Server Plugins
+[16:08:20] --------------
+[16:08:20]  Loaded 0 plugins.
+
+[16:08:20] 
+[16:08:20] Filterscripts
+[16:08:20] ---------------
+[16:08:20]   Loaded 0 filterscripts.
+
+[16:08:20]  
+[16:08:20]  
+[16:08:20]  
+[16:08:20]  ======================================= 
+[16:08:20]  |                                     | 
+[16:08:20]  |        YSI version 4.00.0001        | 
+[16:08:20]  |        By Alex "Y_Less" Cole        | 
+[16:08:20]  |                                     | 
+[16:08:20]  ======================================= 
+[16:08:20]  
+[16:08:20] 
+
+============================================================
+
+[16:08:20] Initializing...
+
+[16:08:20] 
+
+GTA:Missions 0.1.0 initialiazed.
+
+[16:08:20] ============================================================
+
+[16:08:20] Number of vehicle models: 0

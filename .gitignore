@@ -1,0 +1,10 @@
+# Compiled sources #
+###################
+*.amx
+*.exe
+*.pdb
+
+# Other files #
+###################
+*.atom-build.json
+*.log
