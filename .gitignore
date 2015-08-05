@@ -8,3 +8,4 @@
 ###################
 *.atom-build.json
 *.log
+*_log.txt

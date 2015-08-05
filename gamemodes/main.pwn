@@ -24,10 +24,19 @@
 #define SCRIPT_VERSION_PATCH							0
 #define SCRIPT_VERSION_NAME								"GTA:Missions"
 
+// Database
+#define MySQL_HOST		"localhost"
+#define MySQL_USER		"root"
+#define MySQL_DB		"gtamissions"
+#define MySQL_PASS		""
+new gMySQL;
+
 //------------------------------------------------------------------------------
 
 // Libraries
+#include <a_mysql>
 #include <YSI\y_hooks>
+#include <util>
 
 //------------------------------------------------------------------------------
 
@@ -36,6 +45,17 @@ hook OnGameModeInit()
 	print("\n\n============================================================\n");
 	print("Initializing...\n");
     SetGameModeText(SCRIPT_VERSION_NAME " " #SCRIPT_VERSION_MAJOR "." #SCRIPT_VERSION_MINOR "." #SCRIPT_VERSION_PATCH);
+
+    // MySQL connection
+    mysql_log(LOG_ERROR | LOG_WARNING | LOG_DEBUG);
+	gMySQL = mysql_connect(MySQL_HOST, MySQL_USER, MySQL_DB, MySQL_PASS);
+	if(mysql_errno(gMySQL) != 0)
+    {
+        print("ERROR: Could not connect to database!");
+        return -1; // Stop the initialization if can't connect to database.
+    }
+	else
+        printf("[mysql] connected to database %s at %s successfully!", MySQL_DB, MySQL_HOST);
 
 	// Gamemode settings
 	ShowNameTags(1);
@@ -49,6 +69,12 @@ hook OnGameModeInit()
 //------------------------------------------------------------------------------
 
 // Modules
+
+/* Defs */
+#include "../modules/def/dialog.pwn"
+
+/* Data */
+#include "../modules/data/accounts.pwn"
 
 //------------------------------------------------------------------------------
 
