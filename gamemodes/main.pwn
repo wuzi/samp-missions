@@ -86,6 +86,9 @@ hook OnGameModeInit()
 /* Data */
 #include "../modules/data/accounts.pwn"
 
+/* Game */
+#include "../modules/game/clock.pwn"
+
 /* Missions */
 #include "../modules/missions/intro.pwn"
 
