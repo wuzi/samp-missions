@@ -69,13 +69,6 @@ IsPlayerLogged(playerid)
 
 //------------------------------------------------------------------------------
 
-SavePlayerAccount(playerid)
-{
-
-}
-
-//------------------------------------------------------------------------------
-
 ResetPlayerAccount(playerid)
 {
     new ct = gettime();
@@ -95,6 +88,21 @@ LoadPlayerAccount(playerid)
     GetPlayerName(playerid, playerName, sizeof(playerName));
     mysql_format(gMySQL, query, sizeof(query),"SELECT * FROM `players` WHERE `username` = '%e' LIMIT 1", playerName);
     mysql_tquery(gMySQL, query, "OnAccountLoad", "i", playerid);
+}
+
+//------------------------------------------------------------------------------
+
+SavePlayerAccount(playerid)
+{
+    // Only save if the player is logged
+    if(!IsPlayerLogged(playerid))
+        return 0;
+
+    // Account saving
+    new query[90];
+	mysql_format(gMySQL, query, sizeof(query), "UPDATE `players` SET `ip`='%s', `lastlogin`=%d WHERE `id`=%d", gPlayerAccountData[playerid][e_player_ip], gettime(), gPlayerAccountData[playerid][e_player_database_id]);
+	mysql_pquery(gMySQL, query);
+    return 1;
 }
 
 //------------------------------------------------------------------------------
@@ -172,6 +180,8 @@ public OnAccountCheck(playerid)
 public OnAccountRegister(playerid)
 {
     gPlayerAccountData[playerid][e_player_database_id] = cache_insert_id();
+    SetSpawnInfo(playerid, 255, 0, 2234.6855, -1260.9462, 23.9329, 270.0490, 0, 0, 0, 0, 0, 0);
+    SpawnPlayer(playerid);
 
     new playerName[MAX_PLAYER_NAME];
     GetPlayerName(playerid, playerName, sizeof(playerName));

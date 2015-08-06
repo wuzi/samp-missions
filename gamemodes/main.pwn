@@ -7,10 +7,16 @@
 * NOTES :
 *       This file is not intended to handle player's processes.
 *
+* AUTHOR :
+*		Larceny
+*
+* CONTRIBUTORS :
+*		-
+*
 * THANKS :
 *       SA:MP Team past, present and future - SA:MP.
 *       Y_Less - YSI.
-*
+*       BlueG - MySQL Plugin.
 */
 
 // Required to be at the top
