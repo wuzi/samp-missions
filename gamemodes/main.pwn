@@ -41,6 +41,8 @@ new gMySQL;
 
 // Libraries
 #include <a_mysql>
+#include <YSI\y_commands>
+#include <YSI\y_timers>
 #include <YSI\y_hooks>
 #include <util>
 
@@ -78,9 +80,17 @@ hook OnGameModeInit()
 
 /* Defs */
 #include "../modules/def/dialog.pwn"
+#include "../modules/def/mapicons.pwn"
+#include "../modules/def/missions.pwn"
 
 /* Data */
 #include "../modules/data/accounts.pwn"
+
+/* Missions */
+#include "../modules/missions/intro.pwn"
+
+/* Visual */
+#include "../modules/visual/subtitles.pwn"
 
 //------------------------------------------------------------------------------
 

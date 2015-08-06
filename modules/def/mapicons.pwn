@@ -29,6 +29,9 @@ static gMapIconData[MAX_MAP_ICONS][e_map_icon_data];
 
 hook OnPlayerUpdate(playerid)
 {
+    if(IsPlayerInAnyVehicle(playerid))
+        return 1;
+    
     if(gplIsInCP[playerid] == -1)
     {
         for(new i = 0; i < MAX_MAP_ICONS; i++)
@@ -54,6 +57,8 @@ hook OnPlayerUpdate(playerid)
 stock mdm_SetPlayerMapIcon(playerid, iconid, Float:x, Float:y, Float:z, markertype, color, style)
 {
     if(iconid < 0 || iconid > MAX_MAP_ICONS)
+        return 0;
+    else if(gMapIconData[iconid][e_map_icon_x] != 0.0 && gMapIconData[iconid][e_map_icon_y] != 0.0)
         return 0;
 
     gMapIconData[iconid][e_map_icon_x]      = x;
