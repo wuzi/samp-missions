@@ -9,3 +9,4 @@
 *.atom-build.json
 *.log
 *_log.txt
+server_log.txt
