@@ -19,7 +19,7 @@ static PlayerText:gpTextDrawSub[MAX_PLAYERS] = {PlayerText:INVALID_TEXT_DRAW, ..
 
 //------------------------------------------------------------------------------
 
-ShowPlayerSubtitle(playerid, text[])
+ShowPlayerSubtitle(playerid, text[], showtime = 0)
 {
     if(gpTextDrawSub[playerid] != PlayerText:INVALID_TEXT_DRAW)
     {
@@ -38,12 +38,15 @@ ShowPlayerSubtitle(playerid, text[])
     PlayerTextDrawSetProportional(playerid, gpTextDrawSub[playerid], 1);
     PlayerTextDrawSetShadow(playerid, gpTextDrawSub[playerid], 1);
     PlayerTextDrawShow(playerid, gpTextDrawSub[playerid]);
+
+    if(showtime > 0)
+        defer HidePlayerSubtitle[showtime](playerid);
     return 1;
 }
 
 //------------------------------------------------------------------------------
 
-HidePlayerSubtitle(playerid)
+timer HidePlayerSubtitle[6000](playerid)
 {
     if(gpTextDrawSub[playerid] == PlayerText:INVALID_TEXT_DRAW)
         return 1;

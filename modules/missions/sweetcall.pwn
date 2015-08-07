@@ -68,13 +68,16 @@ timer ProcessPhoneCutscene[1000](playerid)
     {
         HidePlayerSubtitle(playerid);
         SetPlayerSpecialAction(playerid, SPECIAL_ACTION_STOPUSECELLPHONE);
-        SetPlayerCurrentMission(playerid, GetPlayerCurrentMission(playerid) + Mission:1);
+        SetPlayerCurrentMission(playerid, MISSION_HOME_INVASION);
+        SetPlayerMapIcon(playerid, 0, 2459.3779, -1689.3700, 13.5377, 34, -1, MAPICON_GLOBAL_CHECKPOINT); // next mission
     }
 }
 
 timer RingPlayerPhone[3000](playerid)
 {
-    if(IsPlayerInAnyVehicle(playerid))
+    if(!IsPlayerConnected(playerid))
+        return 1;
+    else if(IsPlayerInAnyVehicle(playerid))
     {
         defer RingPlayerPhone(playerid);
         return 1;

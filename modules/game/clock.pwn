@@ -13,8 +13,8 @@
 
 //------------------------------------------------------------------------------
 
-// Server start time - 11:00
-new gCurrentHour = 11;
+// Server start time - 00:00
+new gCurrentHour = 00;
 new gCurrentMinute = 00;
 
 new Text:gClockTD;

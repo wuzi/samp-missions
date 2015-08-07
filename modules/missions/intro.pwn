@@ -29,7 +29,7 @@ hook OnPlayerEnterCheckpoint(playerid)
     if(IsPlayerInRangeOfPoint(playerid, 2.0, 2495.1477, -1687.3627, 13.5150))
     {
         RemovePlayerMapIcon(playerid, 0);
-        SetPlayerCurrentMission(playerid, GetPlayerCurrentMission(playerid) + Mission:1);
+        SetPlayerCurrentMission(playerid, MISSION_SWEET_CALL);
         GameTextForPlayer(playerid, "mission passed!~n~~w~respect +", 9000, 0);
         PlayMissionPassedSound(playerid);
         defer RingPlayerPhone[15000](playerid); // Next Mission call

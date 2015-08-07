@@ -17,6 +17,8 @@
 *       SA:MP Team past, present and future - SA:MP.
 *       Y_Less - YSI.
 *       BlueG - MySQL Plugin.
+*		Toribio/Southclaw - Progress bar inc.
+*		Incognito - Streamer plugin
 */
 
 // Required to be at the top
@@ -44,6 +46,8 @@ new gMySQL;
 #include <YSI\y_commands>
 #include <YSI\y_timers>
 #include <YSI\y_hooks>
+#include <progress2>
+#include <streamer>
 #include <util>
 
 //------------------------------------------------------------------------------
@@ -91,9 +95,13 @@ hook OnGameModeInit()
 #include "../modules/game/clock.pwn"
 #include "../modules/game/hospital.pwn"
 
+/* Player */
+#include "../modules/player/animpreload.pwn"
+
 /* Missions */
 #include "../modules/missions/intro.pwn"
 #include "../modules/missions/sweetcall.pwn"
+#include "../modules/missions/homeinvasion.pwn"
 
 /* Visual */
 #include "../modules/visual/subtitles.pwn"

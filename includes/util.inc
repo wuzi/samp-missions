@@ -41,7 +41,7 @@ timer StopAudioStream[10000](playerid)
 */
 stock ClearPlayerScreen(playerid)
 {
-    for(new i = 0; i < 100; i++)
+    for(new i = 0; i < 20; i++)
         SendClientMessage(playerid, -1, " ");
 }
 
@@ -63,4 +63,22 @@ stock IsPlayerInArea(playerid, Float:minx, Float:miny, Float:maxx, Float:maxy)
 	if(X >= minx && X <= maxx && Y >= miny && Y <= maxy)
 		return 1;
 	return 0;
+}
+
+/*
+        IsPlayerInArea
+    description:
+        Checks if a player is running
+    args:
+        playerid - ID of the player.
+*/
+stock bool:IsPlayerRunning(playerid)
+{
+    new keys, ud, lr;
+    GetPlayerKeys(playerid, keys, ud, lr);
+
+    if(keys & KEY_WALK || (ud == 0 && lr == 0))
+        return false;
+
+    return true;
 }

@@ -12,15 +12,15 @@
 
 enum Mission (+=1)
 {
-    INVALID_MISSION_ID,
-    MISSION_INTRO = 1,
-    MISSION_SWEET_CALL
+    MISSION_INTRO,
+    MISSION_SWEET_CALL = 1,
+    MISSION_HOME_INVASION
 }
 static Mission:gplAccomplishedMissions[MAX_PLAYERS];
 
 Mission:GetPlayerCurrentMission(playerid)
 {
-    return Mission:(_:gplAccomplishedMissions[playerid] + 1);
+    return gplAccomplishedMissions[playerid];
 }
 
 SetPlayerCurrentMission(playerid, Mission:missionid)
@@ -30,6 +30,6 @@ SetPlayerCurrentMission(playerid, Mission:missionid)
 
 hook OnPlayerConnect(playerid)
 {
-    gplAccomplishedMissions[playerid] = INVALID_MISSION_ID;
+    gplAccomplishedMissions[playerid] = MISSION_INTRO;
     return 1;
 }
