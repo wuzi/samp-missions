@@ -19,6 +19,17 @@
 #define PlayCancelSound(%0)     PlayerPlaySound(%0,1084,0.0,0.0,0.0)
 #define PlayErrorSound(%0)      PlayerPlaySound(%0,1085,0.0,0.0,0.0)
 
+stock PlayMissionPassedSound(playerid)
+{
+    PlayAudioStreamForPlayer(playerid, "https://dl.dropboxusercontent.com/u/118147782/MissionPassed.mp3");
+    defer StopAudioStream(playerid);
+}
+
+timer StopAudioStream[10000](playerid)
+{
+    StopAudioStreamForPlayer(playerid);
+}
+
 //------------------------------------------------------------------------------
 
 /*

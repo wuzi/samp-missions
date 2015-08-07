@@ -31,7 +31,7 @@ hook OnPlayerEnterCheckpoint(playerid)
         RemovePlayerMapIcon(playerid, 0);
         SetPlayerCurrentMission(playerid, GetPlayerCurrentMission(playerid) + Mission:1);
         GameTextForPlayer(playerid, "mission passed!~n~~w~respect +", 9000, 0);
-        PlayAudioStreamForPlayer(playerid, "https://dl.dropboxusercontent.com/u/118147782/MissionPassed.mp3");
+        PlayMissionPassedSound(playerid);
     }
     return 1;
 }
