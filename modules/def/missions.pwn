@@ -13,7 +13,8 @@
 enum Mission (+=1)
 {
     INVALID_MISSION_ID,
-    MISSION_INTRO = 1
+    MISSION_INTRO = 1,
+    MISSION_SWEET_CALL
 }
 static Mission:gplAccomplishedMissions[MAX_PLAYERS];
 

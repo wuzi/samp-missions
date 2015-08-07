@@ -8,6 +8,8 @@
 *       -
 */
 
+#include <YSI\y_hooks>
+
 static gplCurrentSound[MAX_PLAYERS];
 static gplBMX[MAX_PLAYERS] = {INVALID_VEHICLE_ID, ...};
 static Timer:gplHomeSoundTimer[MAX_PLAYERS] = {Timer:-1, ...};
@@ -22,8 +24,6 @@ static gCutsceneData[][][] =
     {43204, 2000, "but the Ballas won't give a shit."}
 };
 
-#include <YSI\y_hooks>
-
 hook OnPlayerEnterCheckpoint(playerid)
 {
     if(IsPlayerInRangeOfPoint(playerid, 2.0, 2495.1477, -1687.3627, 13.5150))
@@ -32,6 +32,10 @@ hook OnPlayerEnterCheckpoint(playerid)
         SetPlayerCurrentMission(playerid, GetPlayerCurrentMission(playerid) + Mission:1);
         GameTextForPlayer(playerid, "mission passed!~n~~w~respect +", 9000, 0);
         PlayMissionPassedSound(playerid);
+        defer RingPlayerPhone[15000](playerid); // Next Mission call
+
+        if(gplBMX[playerid] != INVALID_VEHICLE_ID)
+            DestroyVehicle(gplBMX[playerid]);
     }
     return 1;
 }

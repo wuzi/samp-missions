@@ -93,6 +93,7 @@ hook OnGameModeInit()
 
 /* Missions */
 #include "../modules/missions/intro.pwn"
+#include "../modules/missions/sweetcall.pwn"
 
 /* Visual */
 #include "../modules/visual/subtitles.pwn"
