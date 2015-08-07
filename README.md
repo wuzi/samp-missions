@@ -19,3 +19,4 @@ Check the wiki for instructions.
 Pictures
 -------------
 ![alt text](http://i.imgur.com/nseLAgu.jpg "Actual Gameplay")
+![alt text](http://i.imgur.com/YVp6zAV.png "Actual Gameplay")
