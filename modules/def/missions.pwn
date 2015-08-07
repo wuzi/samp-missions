@@ -8,6 +8,8 @@
 *       -
 */
 
+#include <YSI\y_hooks>
+
 enum Mission (+=1)
 {
     INVALID_MISSION_ID,
@@ -23,4 +25,10 @@ Mission:GetPlayerCurrentMission(playerid)
 SetPlayerCurrentMission(playerid, Mission:missionid)
 {
     gplAccomplishedMissions[playerid] = missionid;
+}
+
+hook OnPlayerConnect(playerid)
+{
+    gplAccomplishedMissions[playerid] = INVALID_MISSION_ID;
+    return 1;
 }

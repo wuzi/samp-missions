@@ -79,6 +79,7 @@ hook OnGameModeInit()
 // Modules
 
 /* Defs */
+#include "../modules/def/ftime.pwn"
 #include "../modules/def/dialog.pwn"
 #include "../modules/def/mapicons.pwn"
 #include "../modules/def/missions.pwn"
@@ -88,12 +89,15 @@ hook OnGameModeInit()
 
 /* Game */
 #include "../modules/game/clock.pwn"
+#include "../modules/game/hospital.pwn"
 
 /* Missions */
 #include "../modules/missions/intro.pwn"
 
 /* Visual */
 #include "../modules/visual/subtitles.pwn"
+#include "../modules/visual/cutscene.pwn"
+#include "../modules/visual/info.pwn"
 
 //------------------------------------------------------------------------------
 
