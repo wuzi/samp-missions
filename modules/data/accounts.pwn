@@ -181,6 +181,7 @@ public OnAccountRegister(playerid)
 {
     gPlayerAccountData[playerid][e_player_database_id] = cache_insert_id();
     SetSpawnInfo(playerid, 255, 0, 2234.6855, -1260.9462, 23.9329, 270.0490, 0, 0, 0, 0, 0, 0);
+    SetPlayerColor(playerid, 0xFFFFFFFF);
     SpawnPlayer(playerid);
 
     new playerName[MAX_PLAYER_NAME];
