@@ -87,7 +87,7 @@ timer RingPlayerPhone[3000](playerid)
         defer RingPlayerPhone(playerid);
         gplIsPhoneRinging[playerid] = true;
         PlayerPlaySound(playerid, 20600, 0.0, 0.0, 0.0);
-        ShowPlayerInfoMessage(playerid, "Press Y to answer de phone.");
+        ShowPlayerInfoMessage(playerid, "Press Y to answer the phone.");
     }
     return 1;
 }
