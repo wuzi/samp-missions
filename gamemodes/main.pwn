@@ -7,11 +7,8 @@
 * NOTES :
 *       This file is not intended to handle player's processes.
 *
-* AUTHOR :
-*		Larceny
-*
 * CONTRIBUTORS :
-*		-
+*		Larceny
 *
 * THANKS :
 *       SA:MP Team past, present and future - SA:MP.
